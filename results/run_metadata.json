@@ -1,0 +1,60 @@
+{
+  "run_started_utc": "2026-06-01T19:37:35.415879+00:00",
+  "python": "3.12.4 | packaged by Anaconda, Inc. | (main, Jun 18 2024, 10:07:17) [Clang 14.0.6 ]",
+  "python_executable": "/opt/anaconda3/bin/python3",
+  "platform": "macOS-26.4.1-arm64-arm-64bit",
+  "pandas_version": "2.2.2",
+  "numpy_version": "1.26.4",
+  "sklearn_version": "1.4.2",
+  "data_dir": "/Users/wangjingzhou/Downloads/JVproject",
+  "results_dir": "/Users/wangjingzhou/Downloads/JVproject/results",
+  "random_state": 42,
+  "test_size": 0.25,
+  "max_cv_folds": 5,
+  "dataset_configs": [
+    {
+      "name": "event_level",
+      "filename": "passive_partner_event_level_model_data.xlsx",
+      "target": "label_event_has_passive_financial_partner",
+      "features": [
+        "announcement_year",
+        "date_precision",
+        "sector",
+        "subsector",
+        "geography",
+        "cross_border",
+        "cross_border_binary",
+        "partner_count",
+        "deal_or_investment_value",
+        "currency",
+        "deal_value_reported_flag",
+        "ownership_equal_50_50_flag",
+        "equity_JV_flag"
+      ]
+    },
+    {
+      "name": "partner_level",
+      "filename": "passive_partner_partner_level_model_data.xlsx",
+      "target": "label_passive_financial",
+      "features": [
+        "partner_country_or_region",
+        "announcement_year",
+        "date_precision",
+        "sector",
+        "subsector",
+        "geography",
+        "cross_border",
+        "cross_border_binary",
+        "partner_count",
+        "deal_or_investment_value",
+        "currency",
+        "deal_value_reported_flag",
+        "equity_JV_flag",
+        "ownership_equal_50_50_flag",
+        "ownership_pct_numeric"
+      ]
+    }
+  ],
+  "run_finished_utc": "2026-06-01T19:38:09.517251+00:00",
+  "summary_graph_file": "/Users/wangjingzhou/Downloads/JVproject/results/graphs/overall_best_model_summary.png"
+}

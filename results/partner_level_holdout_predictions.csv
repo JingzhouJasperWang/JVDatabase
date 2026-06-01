@@ -1,0 +1,1306 @@
+row_id,event_id,jv_name,partner_name,model,y_true,score_passive_financial,predicted_label,threshold
+PR1024,JV436,International Senior Loan Program (BCSF-Pantheon),Pantheon,dummy_prior,1,0.046094750320102434,1,0.046094750320102434
+PR0381,JV162,Dow Corning Corporation,Dow Chemical,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0500,JV210,MIRISE Technologies,Toyota,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0735,JV302,Toyota Kirloskar Auto Parts Limited,Kirloskar Systems Limited,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0550,JV232,Global Shipping Business Network (GSBN),COSCO SHIPPING Ports,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0473,JV199,Ericsson-LG Enterprise / Ericsson-LG,LG Electronics,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0616,JV253,Froneri,R&R Ice Cream / PAI Partners,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0657,JV269,Galderma,Nestlé,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0696,JV284,Leapmotor International,Leapmotor,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0116,JV053,United Launch Alliance (ULA),Boeing,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0109,JV049,Meta-Blue Owl Hyperion Data Center JV,Blue Owl Capital funds,dummy_prior,1,0.046094750320102434,1,0.046094750320102434
+PR0183,JV079,BritBox US,ITV SVOD Holding,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0258,JV111,Lithium Nevada / Thacker Pass JV,Lithium Americas,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0614,JV252,Cereal Partners Worldwide (CPW),General Mills,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0904,JV383,AirJoule LLC / GE Vernova-Montana Technologies JV,GE Vernova,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0795,JV329,Electrolux-Midea Anderson Fabric Care Manufacturing JV,Midea Group,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0126,JV057,Onduo,Verily Life Sciences,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0824,JV344,Adani-Kowa green hydrogen marketing JV,Adani Global,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR1004,JV429,Aduna Global network API JV,Singtel,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0624,JV257,Huawei-3Com / H3C,3Com,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0267,JV115,Ørsted-Eversource South Fork/Revolution Wind partnership,Eversource,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0087,JV040,Castellón Green Hydrogen S.L. / bp-Iberdrola JV,bp,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0894,JV378,FiberPass Telefónica-Vodafone Spain FTTH JV,Telefónica España,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0951,JV406,CARIZON,CARIAD (Volkswagen Group),dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0205,JV088,FiBrasil,CDPQ,dummy_prior,1,0.046094750320102434,1,0.046094750320102434
+PR0155,JV070,Ewiva,Volkswagen Group,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0828,JV346,DowAksa Advanced Composites Holdings BV,Dow,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0827,JV345,BluMountain-NET biochar JV,Neutralizing Environmental Trash Inc. (NET),dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0120,JV055,Airbus Safran Launchers / ArianeGroup,Airbus,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0662,JV271,EuroJet Turbo GmbH,Rolls-Royce,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0777,JV320,Blue Point low-carbon ammonia JV,Mitsui,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0479,JV202,"Changan Mazda Automobile Co., Ltd.",Mazda Motor Corporation,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0926,JV393,Aetherium Medical-GloMed biologics commercialization JV,GloMed Solutions,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0221,JV095,BMW Brilliance Automotive (BBA),BMW Group,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0723,JV297,"eGT New Energy Automotive Co., Ltd.",Renault,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0149,JV068,Equinix-GIC-CPP U.S. xScale expansion JV,Equinix,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0899,JV380,Eni-PETRONAS Malaysia-Indonesia upstream JV company,PETRONAS,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0146,JV066,Equinix-GIC xScale Europe JV,GIC,dummy_prior,1,0.046094750320102434,1,0.046094750320102434
+PR0776,JV320,Blue Point low-carbon ammonia JV,JERA,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0880,JV371,RIX Business Partners / Mitsubishi Chemical-Accenture JV,Mitsubishi Chemical,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0366,JV155,Nomura Orient International Securities,Nomura Holdings,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0669,JV273,Panavia Aircraft GmbH,Airbus Defence and Space,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0761,JV315,NewRange Copper Nickel LLC,PolyMet Mining,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0693,JV283,Tata Lockheed Martin Aerostructures Limited,Tata Advanced Systems,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR1057,JV452,Coliwoo-Macritchie REHAU Building JV,Coliwoo Holdings,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0801,JV332,NewCo Collagen / Darling-Tessenderlo collagen JV,Tessenderlo Group,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0092,JV042,JERA Nex bp,bp,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0409,JV175,Rheinmetall BAE Systems Land (RBSL),BAE Systems,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0610,JV251,McDonald's China / Fast Food Holdings,CITIC Capital,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0595,JV245,"ADVICS Co., Ltd.",Aisin Seiki,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0797,JV330,Atlas Copco-Shareway Environmental Technology JV,Shanghai Shareway Environmental Technology minority shareholders,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0287,JV124,BASF-YPC Company Limited,BASF,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0240,JV103,ATR,Leonardo,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0014,JV007,GXS Bank / Grab-Singtel digital bank consortium,Singtel,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0883,JV372,Ma’aden-Ivanhoe Electric Saudi exploration JV,Ivanhoe Electric,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0113,JV051,Ma'aden-Alcoa aluminum JV,Alcoa,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0785,JV324,Johnson Controls-Saft Advanced Power Solutions,Saft,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0412,JV177,Tata Boeing Aerospace Limited (TBAL),Boeing,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0234,JV101,"Dongfeng Motor Co., Ltd. / Dongfeng Nissan",Dongfeng Motor Group,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0589,JV242,DP World-CDPQ Global Ports Investment Platform,CDPQ,dummy_prior,1,0.046094750320102434,1,0.046094750320102434
+PR0726,JV298,Dongfeng Renault Automotive Company,Renault,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR1071,JV459,A Holdings / LINE-Z Holdings integration JV,NAVER,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0402,JV172,Airbus OneWeb Satellites LLC,Airbus,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0537,JV227,Fuji Xerox,Fuji Photo Film / Fujifilm,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0822,JV343,LBA Systems / Baykar-Leonardo unmanned systems JV,Baykar,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0108,JV049,Meta-Blue Owl Hyperion Data Center JV,Meta Platforms,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0015,JV008,LG Magna e-Powertrain,LG Electronics,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0002,JV001,MONET Technologies,SoftBank,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR1055,JV451,RadNet-Saint Alphonsus Idaho imaging JV,RadNet,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0627,JV259,Samsung Corning Precision Materials,Corning,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0945,JV403,Heidelberg Materials UK-Turners bulk cement haulage JV,Heidelberg Materials UK,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0602,JV247,SAIC-GM,General Motors,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0869,JV366,Restora Neurosciences / PharmAla-Aluvaris-Diteba SPV,PharmAla Biotech,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0697,JV285,"JERA Co., Inc.",TEPCO Fuel & Power,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0353,JV149,BuyIn,Deutsche Telekom,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0421,JV181,Joyn Bio,Ginkgo Bioworks,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0251,JV107,Arcius Energy,XRG / ADNOC,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0831,JV347,HexiTech LLC / CitroTech-Hexion fire-protected wood JV,Hexion,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0464,JV196,Ardent Mills,ConAgra Foods,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0604,JV248,Dongfeng Peugeot Citroën Automobile (DPCA),PSA Peugeot Citroën / Stellantis,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0779,JV321,Foxtron Vehicle Technologies,Yulon Motor Group,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0423,JV182,Golden Pass LNG,ExxonMobil,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0094,JV043,Stellantis-CATL Spain LFP Battery JV,CATL,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0825,JV344,Adani-Kowa green hydrogen marketing JV,Kowa Holdings Asia,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0840,JV351,Jio Financial Services-Allianz primary insurance JV,Allianz Group,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0714,JV293,SIRO,Vodafone Ireland,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0454,JV191,Indus Towers Limited,Idea Group,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0449,JV189,Veladero Mine 50/50 JV,Shandong Gold,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0318,JV137,Cameron LNG,Sempra Energy,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0235,JV101,"Dongfeng Motor Co., Ltd. / Dongfeng Nissan",Nissan Motor,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0800,JV332,NewCo Collagen / Darling-Tessenderlo collagen JV,Darling Ingredients,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0753,JV311,A+E Global Media / A+E Networks,Hearst Communications,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0062,JV029,Leapmotor International,Stellantis,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0698,JV285,"JERA Co., Inc.",Chubu Electric Power,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0294,JV127,"SAIC-GM-Wuling Automobile Co., Ltd. (SGMW)",GM China,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0615,JV253,Froneri,Nestlé,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0902,JV382,Bosch-BASF Digital Farming JV,Bosch,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0414,JV178,Tata Lockheed Martin Aerostructures Limited (TLMAL),Lockheed Martin,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0742,JV305,Nidec PSA eMotors,Nidec Leroy-Somer,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0312,JV135,Engine Alliance LLC,Pratt & Whitney,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0437,JV185,Oman LNG LLC,PTTEP Oman E&P Corporation,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0901,JV381,Navigator Amon Shipping AS,Amon Maritime,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0198,JV085,European Semiconductor Manufacturing Company (ESMC),Infineon,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0494,JV208,Amplify Cell Technologies,Accelera by Cummins,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0375,JV159,Nokia Siemens Networks,Nokia,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0544,JV230,Freudenberg-NOK General Partnership,NOK,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0022,JV011,BlueOval SK,Ford,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0865,JV364,Telenor Connexion / Telenor-Verdane IoT JV,Telenor,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0612,JV251,McDonald's China / Fast Food Holdings,McDonald's,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0427,JV183,Tengizchevroil LLP,Lukoil,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0145,JV066,Equinix-GIC xScale Europe JV,Equinix,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0837,JV350,Allianz Jio Reinsurance Limited,Jio Financial Services,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0055,JV025,Hyundai Motor Group-LG Energy Solution Georgia battery JV,LG Energy Solution,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0210,JV090,Fiberklaar,EQT Infrastructure,dummy_prior,1,0.046094750320102434,1,0.046094750320102434
+PR0265,JV114,bp-Equinor US offshore wind partnership,Equinor,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0248,JV106,Airbus-Leonardo-Thales Space JV / Project Bromo,Leonardo,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR1032,JV440,GreenIT,Eni,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0915,JV388,BPCE-Generali global asset management JV,BPCE / Natixis Investment Managers,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0182,JV079,BritBox US,BBC Worldwide Americas,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0751,JV310,Albany Safran Composites,Safran Aircraft Engines,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0178,JV078,Hulu,NBC Universal,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR1062,JV454,Saudi Aramco Mobil Refinery Company (SAMREF),Mobil Yanbu Refining Company,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0712,JV292,ARO Drilling,Saudi Aramco,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0903,JV382,Bosch-BASF Digital Farming JV,BASF Digital Farming,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0373,JV158,Sony Ericsson Mobile Communications,Sony,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0674,JV274,Europrop International,Rolls-Royce,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0379,JV161,LG.Philips LCD,LG Electronics / LG LCD,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0942,JV401,Verene Energia / La Caisse-GEB Brazil transmission platform,Grupo Energía Bogotá,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0021,JV010,Automotive Cells Company (ACC) expanded with Mercedes-Benz,Mercedes-Benz,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0752,JV310,Albany Safran Composites,Albany International,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0733,JV302,Toyota Kirloskar Auto Parts Limited,Toyota Motor Corporation,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0433,JV185,Oman LNG LLC,TotalEnergies,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0408,JV175,Rheinmetall BAE Systems Land (RBSL),Rheinmetall,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0066,JV031,Digital Realty-Blackstone Hyperscale Data Center JV,Digital Realty,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0542,JV229,ST-Ericsson,Ericsson,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0677,JV275,Azule Energy,bp,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0913,JV387,BarMar hydrogen pipeline JV,NaTran,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0498,JV209,Cellforce Group,Customcells,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR1046,JV446,SuperX-Zhonhen Electric AI data center power JV,Zhonhen Electric,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0351,JV148,Virgin Media O2,Liberty Global,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0394,JV168,Flash Alliance Ltd. / Toshiba-SanDisk Fab 4 JV,SanDisk,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0791,JV327,Electrolux-Midea North America Food Preservation Sales JV,Midea Group,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0567,JV235,Ichthys LNG,TotalEnergies,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0275,JV119,NEOM Green Hydrogen Company,Air Products,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0041,JV019,Sony Honda Mobility,Sony,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0082,JV038,Blue Owl-Chirisa-PowerHouse AI/HPC data center development partnership,Blue Owl Capital,dummy_prior,1,0.046094750320102434,1,0.046094750320102434
+PR0754,JV311,A+E Global Media / A+E Networks,The Walt Disney Company,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0959,JV410,Ethias-Weerts logistics real estate JV,Ethias,dummy_prior,1,0.046094750320102434,1,0.046094750320102434
+PR0035,JV016,SkyShowtime,Comcast,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0587,JV241,Borouge,Borealis,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0705,JV289,Naviris,Fincantieri,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0924,JV392,CitroTech-Hexion fire-protected wood products JV,Hexion,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0613,JV252,Cereal Partners Worldwide (CPW),Nestlé,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0530,JV223,BNP Paribas ABC Wealth Management,ABC Wealth Management,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0344,JV145,Everything Everywhere / EE,Deutsche Telekom / T-Mobile UK,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0895,JV378,FiberPass Telefónica-Vodafone Spain FTTH JV,Vodafone Spain,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0428,JV184,Dolphin Energy,Mubadala Energy,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0076,JV035,Flexis SAS,Volvo Group,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0690,JV281,ArcelorMittal Nippon Steel India (AM/NS India),Nippon Steel,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0135,JV062,VodafoneZiggo,Liberty Global,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0937,JV399,Arizore LLC / Bocana-Arizore mining JV,Bocana Resources,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0874,JV368,Americold-EQT North American cold storage JV,Americold Realty Trust,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0961,JV411,Frasers Prime Logistics Venture,Frasers Property Industrial,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0049,JV023,GM-Samsung SDI EV battery JV,General Motors,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0331,JV139,Tangguh LNG Project,CNOOC Muturi Ltd.,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0838,JV350,Allianz Jio Reinsurance Limited,Allianz Group,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0383,JV163,Tata Hitachi Construction Machinery,Hitachi Construction Machinery,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR1056,JV451,RadNet-Saint Alphonsus Idaho imaging JV,Saint Alphonsus Health System,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0920,JV390,Aclara-CAP rare earth metals and alloys JV,CAP S.A.,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0506,JV212,J-QuAD Dynamics,JTEKT,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR1034,JV441,AdaniConneX,Adani Enterprises / Adani Group,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0642,JV263,BASF-YPC Company Limited,BASF,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0239,JV103,ATR,Airbus,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0514,JV216,Wyre,Telenet,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0555,JV232,Global Shipping Business Network (GSBN),PSA International,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0518,JV217,FiberCop,Fastweb,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0119,JV054,CFM International,Safran Aircraft Engines,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0852,JV357,Mahindra-Manulife life insurance JV,Manulife Financial Corporation,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR1011,JV430,Greater Gabbard Offshore Wind Farm,RWE,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0548,JV232,Global Shipping Business Network (GSBN),CMA CGM,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0159,JV071,IONNA charging network JV,Hyundai,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0425,JV183,Tengizchevroil LLP,ExxonMobil,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0288,JV124,BASF-YPC Company Limited,Sinopec,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0349,JV147,Cornerstone Telecommunications Infrastructure,Vodafone UK / Vantage Towers,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0967,JV414,Texas Critical Data Centers LLC,New Era Energy & Digital,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0101,JV046,Iberdrola-Masdar East Anglia THREE offshore wind co-investment,Masdar,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0605,JV249,"Beijing Foton Daimler Automotive Co., Ltd. (BFDA)",Foton Motor,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0305,JV132,"AutoAlliance Thailand Co., Ltd. (AAT)",Ford Motor Company,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0306,JV132,"AutoAlliance Thailand Co., Ltd. (AAT)",Mazda Motor Corporation,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0268,JV116,Samsung Bioepis,Samsung Biologics,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0069,JV032,Reliance-Disney India media JV / JioStar,Viacom18,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0535,JV226,NEC Lenovo Japan Group,Lenovo,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0422,JV182,Golden Pass LNG,QatarEnergy,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0499,JV210,MIRISE Technologies,DENSO,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0495,JV208,Amplify Cell Technologies,Daimler Truck,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0699,JV286,MHI Vestas Offshore Wind,Vestas Wind Systems,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0935,JV398,PLIVE / Prologis Logistics Investment Venture Europe,La Caisse,dummy_prior,1,0.046094750320102434,1,0.046094750320102434
+PR0650,JV265,EQUATE Petrochemical Company,Qurain Petrochemical Industries Company,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0519,JV218,OXG Glasfaser / Vodafone-Altice FibreCo,Vodafone,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0862,JV362,Volvo Financial Services-Eicher Motors India finance JV,Eicher Motors,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR1007,JV429,Aduna Global network API JV,T-Mobile,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0938,JV399,Arizore LLC / Bocana-Arizore mining JV,Arizore Ltd.,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0250,JV107,Arcius Energy,bp,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0442,JV187,Compañía Minera Antamina S.A. / Antamina mine,BHP,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR1067,JV457,IsoEnergy-Purepoint Uranium Athabasca JV,IsoEnergy,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0833,JV348,Critical Metals-TQB rare earth processing JV,Tariq Abdel Hadi Abdullah Al-Qahtani & Brothers Company (TQB),dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0112,JV051,Ma'aden-Alcoa aluminum JV,Ma'aden,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0192,JV083,BYD Toyota EV Technology (BTET),Toyota,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0420,JV181,Joyn Bio,Bayer,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0738,JV304,Oyak Renault Otomobil Fabrikaları A.Ş.,Renault Group,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0781,JV322,Reliance BP Mobility / Jio-bp,bp,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0538,JV227,Fuji Xerox,Rank Xerox,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0036,JV016,SkyShowtime,ViacomCBS / Paramount,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0028,JV014,Milence / European heavy-duty charging JV,Daimler Truck,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0750,JV309,"Hitachi Astemo, Ltd.",Honda,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0623,JV257,Huawei-3Com / H3C,Huawei,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR1022,JV435,Lumax Alps Alpine India,Alps Alpine,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0877,JV369,KONGSBERG-Thales defence communications JV,Thales,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0609,JV251,McDonald's China / Fast Food Holdings,CITIC,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0778,JV321,Foxtron Vehicle Technologies,Hon Hai Technology Group / Foxconn,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0279,JV121,Bugatti Rimac,Rimac Automobili / Rimac Group,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0905,JV383,AirJoule LLC / GE Vernova-Montana Technologies JV,Montana Technologies,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0995,JV428,PO-Rein hydrogen storage JV,OPmobility (Plastic Omnium),dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR1027,JV437,SB OAI Japan,SoftBank Corp.,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0682,JV278,S-LCD Corporation,Samsung Electronics,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0276,JV119,NEOM Green Hydrogen Company,NEOM,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0853,JV358,KBC Securities-Van Lanschot Kempen equities JV,KBC Securities,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0513,JV215,nexfibre,Liberty Global,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0225,JV097,GAC Honda,GAC Group,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0849,JV356,PT Mortar Prakarsa Utama / Saint-Gobain-Indocement mortar JV,PT Cipta Mortar Utama / Saint-Gobain,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0554,JV232,Global Shipping Business Network (GSBN),Port of Qingdao / SPG Qingdao Port,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0033,JV015,Japan Advanced Semiconductor Manufacturing (JASM),DENSO,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0278,JV120,Hyundai Motor Manufacturing Middle East / PIF-Hyundai JV,Hyundai Motor Company,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0501,JV211,BluE Nexus,AISIN,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR1050,JV448,Tianjin Nangang Ethylene Project JV,SINOPEC,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0969,JV415,Bericap North America / BCNA,Amcor,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0446,JV188,Galore Creek Partnership,Newmont,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0771,JV319,HysetCo,Air Liquide,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0664,JV271,EuroJet Turbo GmbH,ITP Aero,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0960,JV410,Ethias-Weerts logistics real estate JV,Weerts Group,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0743,JV306,Punch Powertrain PSA e-transmissions,Punch Powertrain,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0516,JV217,FiberCop,TIM,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0223,JV096,"Beijing Benz Automotive Co., Ltd. (BBAC)",Mercedes-Benz,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0927,JV394,CRML-FPCU Romania rare earth processing JV,Critical Metals Corp.,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0940,JV400,Looper Textile Co. / H&M-Remondis JV,Remondis,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0309,JV134,GE Honda Aero Engines LLC,General Electric,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0551,JV232,Global Shipping Business Network (GSBN),Hapag-Lloyd,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0067,JV031,Digital Realty-Blackstone Hyperscale Data Center JV,Blackstone funds,dummy_prior,1,0.046094750320102434,1,0.046094750320102434
+PR0808,JV336,Rheinmetall ICEYE Space Solutions GmbH,Rheinmetall,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0873,JV367,Questerre-Nice Capital PX Energy JV,Nice Capital Holdings,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0186,JV081,Airbus C Series / A220 partnership,Airbus,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0728,JV299,"Changan PSA Automobile Co., Ltd. (CAPSA)",PSA Peugeot Citroën,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0571,JV235,Ichthys LNG,JERA / Chubu-related stake,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0819,JV341,IsoEnergy-Purepoint Athabasca Basin uranium JV,Purepoint Uranium,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0415,JV178,Tata Lockheed Martin Aerostructures Limited (TLMAL),Tata Advanced Systems,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0556,JV232,Global Shipping Business Network (GSBN),Shanghai International Port Group (SIPG),dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0207,JV089,Bluevia,Vauban Infrastructure Partners,dummy_prior,1,0.046094750320102434,1,0.046094750320102434
+PR0303,JV131,AutoAlliance International,Ford Motor Company,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR1015,JV432,IHI-Orion Corinthia Hotel Lisbon JV,Orion European Real Estate Fund VI,dummy_prior,1,0.046094750320102434,1,0.046094750320102434
+PR0324,JV138,Mozambique LNG / Area 1 Project,ENH Rovuma Área Um,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR0005,JV003,Ultium Cells LLC,General Motors,dummy_prior,0,0.046094750320102434,1,0.046094750320102434
+PR1024,JV436,International Senior Loan Program (BCSF-Pantheon),Pantheon,logistic_regression_balanced,1,0.10523436823475456,0,0.823542850101487
+PR0381,JV162,Dow Corning Corporation,Dow Chemical,logistic_regression_balanced,0,0.0002236952998143488,0,0.823542850101487
+PR0500,JV210,MIRISE Technologies,Toyota,logistic_regression_balanced,0,0.08470182050691252,0,0.823542850101487
+PR0735,JV302,Toyota Kirloskar Auto Parts Limited,Kirloskar Systems Limited,logistic_regression_balanced,0,0.0032204896287202404,0,0.823542850101487
+PR0550,JV232,Global Shipping Business Network (GSBN),COSCO SHIPPING Ports,logistic_regression_balanced,0,0.042395497565668766,0,0.823542850101487
+PR0473,JV199,Ericsson-LG Enterprise / Ericsson-LG,LG Electronics,logistic_regression_balanced,0,0.0107989195913339,0,0.823542850101487
+PR0616,JV253,Froneri,R&R Ice Cream / PAI Partners,logistic_regression_balanced,0,0.08024864417030564,0,0.823542850101487
+PR0657,JV269,Galderma,Nestlé,logistic_regression_balanced,0,0.0011511265731871572,0,0.823542850101487
+PR0696,JV284,Leapmotor International,Leapmotor,logistic_regression_balanced,0,0.04159897049918541,0,0.823542850101487
+PR0116,JV053,United Launch Alliance (ULA),Boeing,logistic_regression_balanced,0,0.06859982619940092,0,0.823542850101487
+PR0109,JV049,Meta-Blue Owl Hyperion Data Center JV,Blue Owl Capital funds,logistic_regression_balanced,1,0.8741147185940136,1,0.823542850101487
+PR0183,JV079,BritBox US,ITV SVOD Holding,logistic_regression_balanced,0,0.011264154924475672,0,0.823542850101487
+PR0258,JV111,Lithium Nevada / Thacker Pass JV,Lithium Americas,logistic_regression_balanced,0,0.18789394160031975,0,0.823542850101487
+PR0614,JV252,Cereal Partners Worldwide (CPW),General Mills,logistic_regression_balanced,0,0.006875212425982335,0,0.823542850101487
+PR0904,JV383,AirJoule LLC / GE Vernova-Montana Technologies JV,GE Vernova,logistic_regression_balanced,0,0.33563250980034187,0,0.823542850101487
+PR0795,JV329,Electrolux-Midea Anderson Fabric Care Manufacturing JV,Midea Group,logistic_regression_balanced,0,0.04602615404173242,0,0.823542850101487
+PR0126,JV057,Onduo,Verily Life Sciences,logistic_regression_balanced,0,0.05736522046231225,0,0.823542850101487
+PR0824,JV344,Adani-Kowa green hydrogen marketing JV,Adani Global,logistic_regression_balanced,0,0.055304867764263854,0,0.823542850101487
+PR1004,JV429,Aduna Global network API JV,Singtel,logistic_regression_balanced,0,0.262128322322325,0,0.823542850101487
+PR0624,JV257,Huawei-3Com / H3C,3Com,logistic_regression_balanced,0,0.04741650937569584,0,0.823542850101487
+PR0267,JV115,Ørsted-Eversource South Fork/Revolution Wind partnership,Eversource,logistic_regression_balanced,0,0.20420645551368724,0,0.823542850101487
+PR0087,JV040,Castellón Green Hydrogen S.L. / bp-Iberdrola JV,bp,logistic_regression_balanced,0,0.11335439101187811,0,0.823542850101487
+PR0894,JV378,FiberPass Telefónica-Vodafone Spain FTTH JV,Telefónica España,logistic_regression_balanced,0,0.03775472715240251,0,0.823542850101487
+PR0951,JV406,CARIZON,CARIAD (Volkswagen Group),logistic_regression_balanced,0,0.05582367369228266,0,0.823542850101487
+PR0205,JV088,FiBrasil,CDPQ,logistic_regression_balanced,1,0.9400340464435265,1,0.823542850101487
+PR0155,JV070,Ewiva,Volkswagen Group,logistic_regression_balanced,0,0.113226455907121,0,0.823542850101487
+PR0828,JV346,DowAksa Advanced Composites Holdings BV,Dow,logistic_regression_balanced,0,0.062100074238118835,0,0.823542850101487
+PR0827,JV345,BluMountain-NET biochar JV,Neutralizing Environmental Trash Inc. (NET),logistic_regression_balanced,0,0.25612611121528317,0,0.823542850101487
+PR0120,JV055,Airbus Safran Launchers / ArianeGroup,Airbus,logistic_regression_balanced,0,0.1047372825585,0,0.823542850101487
+PR0662,JV271,EuroJet Turbo GmbH,Rolls-Royce,logistic_regression_balanced,0,0.0005453999755683869,0,0.823542850101487
+PR0777,JV320,Blue Point low-carbon ammonia JV,Mitsui,logistic_regression_balanced,0,0.11985822990299955,0,0.823542850101487
+PR0479,JV202,"Changan Mazda Automobile Co., Ltd.",Mazda Motor Corporation,logistic_regression_balanced,0,0.0028856339590275326,0,0.823542850101487
+PR0926,JV393,Aetherium Medical-GloMed biologics commercialization JV,GloMed Solutions,logistic_regression_balanced,0,0.01788355880134724,0,0.823542850101487
+PR0221,JV095,BMW Brilliance Automotive (BBA),BMW Group,logistic_regression_balanced,0,0.006580999792797083,0,0.823542850101487
+PR0723,JV297,"eGT New Energy Automotive Co., Ltd.",Renault,logistic_regression_balanced,0,0.014979552462817057,0,0.823542850101487
+PR0149,JV068,Equinix-GIC-CPP U.S. xScale expansion JV,Equinix,logistic_regression_balanced,0,0.8989361455390008,1,0.823542850101487
+PR0899,JV380,Eni-PETRONAS Malaysia-Indonesia upstream JV company,PETRONAS,logistic_regression_balanced,0,0.023771800774490252,0,0.823542850101487
+PR0146,JV066,Equinix-GIC xScale Europe JV,GIC,logistic_regression_balanced,1,0.9903108784519766,1,0.823542850101487
+PR0776,JV320,Blue Point low-carbon ammonia JV,JERA,logistic_regression_balanced,0,0.10704796232829564,0,0.823542850101487
+PR0880,JV371,RIX Business Partners / Mitsubishi Chemical-Accenture JV,Mitsubishi Chemical,logistic_regression_balanced,0,0.020077661685767554,0,0.823542850101487
+PR0366,JV155,Nomura Orient International Securities,Nomura Holdings,logistic_regression_balanced,0,0.04279579927181597,0,0.823542850101487
+PR0669,JV273,Panavia Aircraft GmbH,Airbus Defence and Space,logistic_regression_balanced,0,0.00027687210700467194,0,0.823542850101487
+PR0761,JV315,NewRange Copper Nickel LLC,PolyMet Mining,logistic_regression_balanced,0,0.026871295491296417,0,0.823542850101487
+PR0693,JV283,Tata Lockheed Martin Aerostructures Limited,Tata Advanced Systems,logistic_regression_balanced,0,0.006544101195911825,0,0.823542850101487
+PR1057,JV452,Coliwoo-Macritchie REHAU Building JV,Coliwoo Holdings,logistic_regression_balanced,0,0.7132309573886704,0,0.823542850101487
+PR0801,JV332,NewCo Collagen / Darling-Tessenderlo collagen JV,Tessenderlo Group,logistic_regression_balanced,0,0.03952227099370166,0,0.823542850101487
+PR0092,JV042,JERA Nex bp,bp,logistic_regression_balanced,0,0.06648189749510651,0,0.823542850101487
+PR0409,JV175,Rheinmetall BAE Systems Land (RBSL),BAE Systems,logistic_regression_balanced,0,0.07272300817471923,0,0.823542850101487
+PR0610,JV251,McDonald's China / Fast Food Holdings,CITIC Capital,logistic_regression_balanced,0,0.6122730878507537,0,0.823542850101487
+PR0595,JV245,"ADVICS Co., Ltd.",Aisin Seiki,logistic_regression_balanced,0,0.02524949961161174,0,0.823542850101487
+PR0797,JV330,Atlas Copco-Shareway Environmental Technology JV,Shanghai Shareway Environmental Technology minority shareholders,logistic_regression_balanced,0,0.07290376696551297,0,0.823542850101487
+PR0287,JV124,BASF-YPC Company Limited,BASF,logistic_regression_balanced,0,0.015253736232916428,0,0.823542850101487
+PR0240,JV103,ATR,Leonardo,logistic_regression_balanced,0,0.0014219195237647332,0,0.823542850101487
+PR0014,JV007,GXS Bank / Grab-Singtel digital bank consortium,Singtel,logistic_regression_balanced,0,0.20974521868131846,0,0.823542850101487
+PR0883,JV372,Ma’aden-Ivanhoe Electric Saudi exploration JV,Ivanhoe Electric,logistic_regression_balanced,0,0.15793420153884377,0,0.823542850101487
+PR0113,JV051,Ma'aden-Alcoa aluminum JV,Alcoa,logistic_regression_balanced,0,0.028302526655127093,0,0.823542850101487
+PR0785,JV324,Johnson Controls-Saft Advanced Power Solutions,Saft,logistic_regression_balanced,0,0.005750614767453418,0,0.823542850101487
+PR0412,JV177,Tata Boeing Aerospace Limited (TBAL),Boeing,logistic_regression_balanced,0,0.24409912801903733,0,0.823542850101487
+PR0234,JV101,"Dongfeng Motor Co., Ltd. / Dongfeng Nissan",Dongfeng Motor Group,logistic_regression_balanced,0,0.007990669201549273,0,0.823542850101487
+PR0589,JV242,DP World-CDPQ Global Ports Investment Platform,CDPQ,logistic_regression_balanced,1,0.5988908767661566,0,0.823542850101487
+PR0726,JV298,Dongfeng Renault Automotive Company,Renault,logistic_regression_balanced,0,0.025463541381788343,0,0.823542850101487
+PR1071,JV459,A Holdings / LINE-Z Holdings integration JV,NAVER,logistic_regression_balanced,0,0.04592080136976013,0,0.823542850101487
+PR0402,JV172,Airbus OneWeb Satellites LLC,Airbus,logistic_regression_balanced,0,0.010621195912765776,0,0.823542850101487
+PR0537,JV227,Fuji Xerox,Fuji Photo Film / Fujifilm,logistic_regression_balanced,0,0.0004699467136480725,0,0.823542850101487
+PR0822,JV343,LBA Systems / Baykar-Leonardo unmanned systems JV,Baykar,logistic_regression_balanced,0,0.12911295468410433,0,0.823542850101487
+PR0108,JV049,Meta-Blue Owl Hyperion Data Center JV,Meta Platforms,logistic_regression_balanced,0,0.9371878795115567,1,0.823542850101487
+PR0015,JV008,LG Magna e-Powertrain,LG Electronics,logistic_regression_balanced,0,0.007077718330494666,0,0.823542850101487
+PR0002,JV001,MONET Technologies,SoftBank,logistic_regression_balanced,0,0.03750196595860165,0,0.823542850101487
+PR1055,JV451,RadNet-Saint Alphonsus Idaho imaging JV,RadNet,logistic_regression_balanced,0,0.36539287541434495,0,0.823542850101487
+PR0627,JV259,Samsung Corning Precision Materials,Corning,logistic_regression_balanced,0,0.018487021929639975,0,0.823542850101487
+PR0945,JV403,Heidelberg Materials UK-Turners bulk cement haulage JV,Heidelberg Materials UK,logistic_regression_balanced,0,0.1915514647044589,0,0.823542850101487
+PR0602,JV247,SAIC-GM,General Motors,logistic_regression_balanced,0,0.023077239048054494,0,0.823542850101487
+PR0869,JV366,Restora Neurosciences / PharmAla-Aluvaris-Diteba SPV,PharmAla Biotech,logistic_regression_balanced,0,0.23786664360255666,0,0.823542850101487
+PR0697,JV285,"JERA Co., Inc.",TEPCO Fuel & Power,logistic_regression_balanced,0,0.018574378879525382,0,0.823542850101487
+PR0353,JV149,BuyIn,Deutsche Telekom,logistic_regression_balanced,0,0.01100095167559282,0,0.823542850101487
+PR0421,JV181,Joyn Bio,Ginkgo Bioworks,logistic_regression_balanced,0,0.0976550902308904,0,0.823542850101487
+PR0251,JV107,Arcius Energy,XRG / ADNOC,logistic_regression_balanced,0,0.06459084865502919,0,0.823542850101487
+PR0831,JV347,HexiTech LLC / CitroTech-Hexion fire-protected wood JV,Hexion,logistic_regression_balanced,0,0.18696737954281864,0,0.823542850101487
+PR0464,JV196,Ardent Mills,ConAgra Foods,logistic_regression_balanced,0,0.11150158267236379,0,0.823542850101487
+PR0604,JV248,Dongfeng Peugeot Citroën Automobile (DPCA),PSA Peugeot Citroën / Stellantis,logistic_regression_balanced,0,0.0018254601409372897,0,0.823542850101487
+PR0779,JV321,Foxtron Vehicle Technologies,Yulon Motor Group,logistic_regression_balanced,0,0.01622602184936141,0,0.823542850101487
+PR0423,JV182,Golden Pass LNG,ExxonMobil,logistic_regression_balanced,0,0.10002667591926345,0,0.823542850101487
+PR0094,JV043,Stellantis-CATL Spain LFP Battery JV,CATL,logistic_regression_balanced,0,0.07784530120739754,0,0.823542850101487
+PR0825,JV344,Adani-Kowa green hydrogen marketing JV,Kowa Holdings Asia,logistic_regression_balanced,0,0.055304867764263854,0,0.823542850101487
+PR0840,JV351,Jio Financial Services-Allianz primary insurance JV,Allianz Group,logistic_regression_balanced,0,0.0697933927879613,0,0.823542850101487
+PR0714,JV293,SIRO,Vodafone Ireland,logistic_regression_balanced,0,0.6321265829650112,0,0.823542850101487
+PR0454,JV191,Indus Towers Limited,Idea Group,logistic_regression_balanced,0,0.42863207292187905,0,0.823542850101487
+PR0449,JV189,Veladero Mine 50/50 JV,Shandong Gold,logistic_regression_balanced,0,0.05933052149585523,0,0.823542850101487
+PR0318,JV137,Cameron LNG,Sempra Energy,logistic_regression_balanced,0,0.06021120865443219,0,0.823542850101487
+PR0235,JV101,"Dongfeng Motor Co., Ltd. / Dongfeng Nissan",Nissan Motor,logistic_regression_balanced,0,0.0034671554509169687,0,0.823542850101487
+PR0800,JV332,NewCo Collagen / Darling-Tessenderlo collagen JV,Darling Ingredients,logistic_regression_balanced,0,0.0970984597029093,0,0.823542850101487
+PR0753,JV311,A+E Global Media / A+E Networks,Hearst Communications,logistic_regression_balanced,0,0.12037879105191855,0,0.823542850101487
+PR0062,JV029,Leapmotor International,Stellantis,logistic_regression_balanced,0,0.036804805798946516,0,0.823542850101487
+PR0698,JV285,"JERA Co., Inc.",Chubu Electric Power,logistic_regression_balanced,0,0.018574378879525382,0,0.823542850101487
+PR0294,JV127,"SAIC-GM-Wuling Automobile Co., Ltd. (SGMW)",GM China,logistic_regression_balanced,0,0.003499577826941694,0,0.823542850101487
+PR0615,JV253,Froneri,Nestlé,logistic_regression_balanced,0,0.12446615046569642,0,0.823542850101487
+PR0902,JV382,Bosch-BASF Digital Farming JV,Bosch,logistic_regression_balanced,0,0.09830935426577658,0,0.823542850101487
+PR0414,JV178,Tata Lockheed Martin Aerostructures Limited (TLMAL),Lockheed Martin,logistic_regression_balanced,0,0.14344328617715663,0,0.823542850101487
+PR0742,JV305,Nidec PSA eMotors,Nidec Leroy-Somer,logistic_regression_balanced,0,0.011425538100892835,0,0.823542850101487
+PR0312,JV135,Engine Alliance LLC,Pratt & Whitney,logistic_regression_balanced,0,0.02964571710524154,0,0.823542850101487
+PR0437,JV185,Oman LNG LLC,PTTEP Oman E&P Corporation,logistic_regression_balanced,0,0.0029388414679400194,0,0.823542850101487
+PR0901,JV381,Navigator Amon Shipping AS,Amon Maritime,logistic_regression_balanced,0,0.1730248153055907,0,0.823542850101487
+PR0198,JV085,European Semiconductor Manufacturing Company (ESMC),Infineon,logistic_regression_balanced,0,0.22126107869494,0,0.823542850101487
+PR0494,JV208,Amplify Cell Technologies,Accelera by Cummins,logistic_regression_balanced,0,0.39698240403087753,0,0.823542850101487
+PR0375,JV159,Nokia Siemens Networks,Nokia,logistic_regression_balanced,0,0.008698228128726724,0,0.823542850101487
+PR0544,JV230,Freudenberg-NOK General Partnership,NOK,logistic_regression_balanced,0,0.0011132592816902335,0,0.823542850101487
+PR0022,JV011,BlueOval SK,Ford,logistic_regression_balanced,0,0.12526573066095772,0,0.823542850101487
+PR0865,JV364,Telenor Connexion / Telenor-Verdane IoT JV,Telenor,logistic_regression_balanced,0,0.3222440265068811,0,0.823542850101487
+PR0612,JV251,McDonald's China / Fast Food Holdings,McDonald's,logistic_regression_balanced,0,0.8670460130383105,1,0.823542850101487
+PR0427,JV183,Tengizchevroil LLP,Lukoil,logistic_regression_balanced,0,0.006074621206201665,0,0.823542850101487
+PR0145,JV066,Equinix-GIC xScale Europe JV,Equinix,logistic_regression_balanced,0,0.9861005574674467,1,0.823542850101487
+PR0837,JV350,Allianz Jio Reinsurance Limited,Jio Financial Services,logistic_regression_balanced,0,0.04851026222719034,0,0.823542850101487
+PR0055,JV025,Hyundai Motor Group-LG Energy Solution Georgia battery JV,LG Energy Solution,logistic_regression_balanced,0,0.037654106667741744,0,0.823542850101487
+PR0210,JV090,Fiberklaar,EQT Infrastructure,logistic_regression_balanced,1,0.2606491812843029,0,0.823542850101487
+PR0265,JV114,bp-Equinor US offshore wind partnership,Equinor,logistic_regression_balanced,0,0.05639507718262169,0,0.823542850101487
+PR0248,JV106,Airbus-Leonardo-Thales Space JV / Project Bromo,Leonardo,logistic_regression_balanced,0,0.08961985271678705,0,0.823542850101487
+PR1032,JV440,GreenIT,Eni,logistic_regression_balanced,0,0.8851312226630489,1,0.823542850101487
+PR0915,JV388,BPCE-Generali global asset management JV,BPCE / Natixis Investment Managers,logistic_regression_balanced,0,0.024846328717252297,0,0.823542850101487
+PR0182,JV079,BritBox US,BBC Worldwide Americas,logistic_regression_balanced,0,0.011264154924475672,0,0.823542850101487
+PR0751,JV310,Albany Safran Composites,Safran Aircraft Engines,logistic_regression_balanced,0,0.009007080176056148,0,0.823542850101487
+PR0178,JV078,Hulu,NBC Universal,logistic_regression_balanced,0,0.1188109963646367,0,0.823542850101487
+PR1062,JV454,Saudi Aramco Mobil Refinery Company (SAMREF),Mobil Yanbu Refining Company,logistic_regression_balanced,0,0.005491561164059631,0,0.823542850101487
+PR0712,JV292,ARO Drilling,Saudi Aramco,logistic_regression_balanced,0,0.013885263152352015,0,0.823542850101487
+PR0903,JV382,Bosch-BASF Digital Farming JV,BASF Digital Farming,logistic_regression_balanced,0,0.09830935426577658,0,0.823542850101487
+PR0373,JV158,Sony Ericsson Mobile Communications,Sony,logistic_regression_balanced,0,0.004491228000080697,0,0.823542850101487
+PR0674,JV274,Europrop International,Rolls-Royce,logistic_regression_balanced,0,0.0027015657380531945,0,0.823542850101487
+PR0379,JV161,LG.Philips LCD,LG Electronics / LG LCD,logistic_regression_balanced,0,0.01886212596013888,0,0.823542850101487
+PR0942,JV401,Verene Energia / La Caisse-GEB Brazil transmission platform,Grupo Energía Bogotá,logistic_regression_balanced,0,0.6058908763357251,0,0.823542850101487
+PR0021,JV010,Automotive Cells Company (ACC) expanded with Mercedes-Benz,Mercedes-Benz,logistic_regression_balanced,0,0.013118662175838486,0,0.823542850101487
+PR0752,JV310,Albany Safran Composites,Albany International,logistic_regression_balanced,0,0.025241946426464722,0,0.823542850101487
+PR0733,JV302,Toyota Kirloskar Auto Parts Limited,Toyota Motor Corporation,logistic_regression_balanced,0,0.0035163907483196756,0,0.823542850101487
+PR0433,JV185,Oman LNG LLC,TotalEnergies,logistic_regression_balanced,0,0.004764942997300756,0,0.823542850101487
+PR0408,JV175,Rheinmetall BAE Systems Land (RBSL),Rheinmetall,logistic_regression_balanced,0,0.09930382530813028,0,0.823542850101487
+PR0066,JV031,Digital Realty-Blackstone Hyperscale Data Center JV,Digital Realty,logistic_regression_balanced,0,0.9787274563819354,1,0.823542850101487
+PR0542,JV229,ST-Ericsson,Ericsson,logistic_regression_balanced,0,0.037703719772701,0,0.823542850101487
+PR0677,JV275,Azule Energy,bp,logistic_regression_balanced,0,0.022793684494334093,0,0.823542850101487
+PR0913,JV387,BarMar hydrogen pipeline JV,NaTran,logistic_regression_balanced,0,0.0738265821899234,0,0.823542850101487
+PR0498,JV209,Cellforce Group,Customcells,logistic_regression_balanced,0,0.15095547130690204,0,0.823542850101487
+PR1046,JV446,SuperX-Zhonhen Electric AI data center power JV,Zhonhen Electric,logistic_regression_balanced,0,0.49926090550559765,0,0.823542850101487
+PR0351,JV148,Virgin Media O2,Liberty Global,logistic_regression_balanced,0,0.10314001566800336,0,0.823542850101487
+PR0394,JV168,Flash Alliance Ltd. / Toshiba-SanDisk Fab 4 JV,SanDisk,logistic_regression_balanced,0,0.16508225374255445,0,0.823542850101487
+PR0791,JV327,Electrolux-Midea North America Food Preservation Sales JV,Midea Group,logistic_regression_balanced,0,0.07037705874123847,0,0.823542850101487
+PR0567,JV235,Ichthys LNG,TotalEnergies,logistic_regression_balanced,0,0.04452970926480314,0,0.823542850101487
+PR0275,JV119,NEOM Green Hydrogen Company,Air Products,logistic_regression_balanced,0,0.2838038467461985,0,0.823542850101487
+PR0041,JV019,Sony Honda Mobility,Sony,logistic_regression_balanced,0,0.011798227315409497,0,0.823542850101487
+PR0082,JV038,Blue Owl-Chirisa-PowerHouse AI/HPC data center development partnership,Blue Owl Capital,logistic_regression_balanced,1,0.6841106028198604,0,0.823542850101487
+PR0754,JV311,A+E Global Media / A+E Networks,The Walt Disney Company,logistic_regression_balanced,0,0.12037879105191855,0,0.823542850101487
+PR0959,JV410,Ethias-Weerts logistics real estate JV,Ethias,logistic_regression_balanced,1,0.32549398491669873,0,0.823542850101487
+PR0035,JV016,SkyShowtime,Comcast,logistic_regression_balanced,0,0.09202027739921884,0,0.823542850101487
+PR0587,JV241,Borouge,Borealis,logistic_regression_balanced,0,0.0039744729862156245,0,0.823542850101487
+PR0705,JV289,Naviris,Fincantieri,logistic_regression_balanced,0,0.026373528588880733,0,0.823542850101487
+PR0924,JV392,CitroTech-Hexion fire-protected wood products JV,Hexion,logistic_regression_balanced,0,0.3121625558181712,0,0.823542850101487
+PR0613,JV252,Cereal Partners Worldwide (CPW),Nestlé,logistic_regression_balanced,0,0.002324306154833461,0,0.823542850101487
+PR0530,JV223,BNP Paribas ABC Wealth Management,ABC Wealth Management,logistic_regression_balanced,0,0.3281799407319742,0,0.823542850101487
+PR0344,JV145,Everything Everywhere / EE,Deutsche Telekom / T-Mobile UK,logistic_regression_balanced,0,0.031980017589650196,0,0.823542850101487
+PR0895,JV378,FiberPass Telefónica-Vodafone Spain FTTH JV,Vodafone Spain,logistic_regression_balanced,0,0.12735725498195033,0,0.823542850101487
+PR0428,JV184,Dolphin Energy,Mubadala Energy,logistic_regression_balanced,0,0.028680249303505545,0,0.823542850101487
+PR0076,JV035,Flexis SAS,Volvo Group,logistic_regression_balanced,0,0.08366260261524752,0,0.823542850101487
+PR0690,JV281,ArcelorMittal Nippon Steel India (AM/NS India),Nippon Steel,logistic_regression_balanced,0,0.039694067196105416,0,0.823542850101487
+PR0135,JV062,VodafoneZiggo,Liberty Global,logistic_regression_balanced,0,0.023472184543232286,0,0.823542850101487
+PR0937,JV399,Arizore LLC / Bocana-Arizore mining JV,Bocana Resources,logistic_regression_balanced,0,0.40624193872041114,0,0.823542850101487
+PR0874,JV368,Americold-EQT North American cold storage JV,Americold Realty Trust,logistic_regression_balanced,0,0.9426266755587701,1,0.823542850101487
+PR0961,JV411,Frasers Prime Logistics Venture,Frasers Property Industrial,logistic_regression_balanced,0,0.7058839781294707,0,0.823542850101487
+PR0049,JV023,GM-Samsung SDI EV battery JV,General Motors,logistic_regression_balanced,0,0.1436771131548702,0,0.823542850101487
+PR0331,JV139,Tangguh LNG Project,CNOOC Muturi Ltd.,logistic_regression_balanced,0,0.02342362352095224,0,0.823542850101487
+PR0838,JV350,Allianz Jio Reinsurance Limited,Allianz Group,logistic_regression_balanced,0,0.09596236372653359,0,0.823542850101487
+PR0383,JV163,Tata Hitachi Construction Machinery,Hitachi Construction Machinery,logistic_regression_balanced,0,0.00449748414430305,0,0.823542850101487
+PR1056,JV451,RadNet-Saint Alphonsus Idaho imaging JV,Saint Alphonsus Health System,logistic_regression_balanced,0,0.36539287541434495,0,0.823542850101487
+PR0920,JV390,Aclara-CAP rare earth metals and alloys JV,CAP S.A.,logistic_regression_balanced,0,0.3104453214014184,0,0.823542850101487
+PR0506,JV212,J-QuAD Dynamics,JTEKT,logistic_regression_balanced,0,0.036903106196860956,0,0.823542850101487
+PR1034,JV441,AdaniConneX,Adani Enterprises / Adani Group,logistic_regression_balanced,0,0.756447554171476,0,0.823542850101487
+PR0642,JV263,BASF-YPC Company Limited,BASF,logistic_regression_balanced,0,0.009886387852852936,0,0.823542850101487
+PR0239,JV103,ATR,Airbus,logistic_regression_balanced,0,0.000932761639754458,0,0.823542850101487
+PR0514,JV216,Wyre,Telenet,logistic_regression_balanced,0,0.267243974576257,0,0.823542850101487
+PR0555,JV232,Global Shipping Business Network (GSBN),PSA International,logistic_regression_balanced,0,0.27855757816236704,0,0.823542850101487
+PR0518,JV217,FiberCop,Fastweb,logistic_regression_balanced,0,0.8973106705805188,1,0.823542850101487
+PR0119,JV054,CFM International,Safran Aircraft Engines,logistic_regression_balanced,0,0.0003234601142863849,0,0.823542850101487
+PR0852,JV357,Mahindra-Manulife life insurance JV,Manulife Financial Corporation,logistic_regression_balanced,0,0.6312972527567421,0,0.823542850101487
+PR1011,JV430,Greater Gabbard Offshore Wind Farm,RWE,logistic_regression_balanced,0,0.04044395426002797,0,0.823542850101487
+PR0548,JV232,Global Shipping Business Network (GSBN),CMA CGM,logistic_regression_balanced,0,0.04194111014328933,0,0.823542850101487
+PR0159,JV071,IONNA charging network JV,Hyundai,logistic_regression_balanced,0,0.03641314774624408,0,0.823542850101487
+PR0425,JV183,Tengizchevroil LLP,ExxonMobil,logistic_regression_balanced,0,0.018928948192148375,0,0.823542850101487
+PR0288,JV124,BASF-YPC Company Limited,Sinopec,logistic_regression_balanced,0,0.018465555947666194,0,0.823542850101487
+PR0349,JV147,Cornerstone Telecommunications Infrastructure,Vodafone UK / Vantage Towers,logistic_regression_balanced,0,0.872373970916564,1,0.823542850101487
+PR0967,JV414,Texas Critical Data Centers LLC,New Era Energy & Digital,logistic_regression_balanced,0,0.16946525698389203,0,0.823542850101487
+PR0101,JV046,Iberdrola-Masdar East Anglia THREE offshore wind co-investment,Masdar,logistic_regression_balanced,0,0.4289896060544803,0,0.823542850101487
+PR0605,JV249,"Beijing Foton Daimler Automotive Co., Ltd. (BFDA)",Foton Motor,logistic_regression_balanced,0,0.003717773923879316,0,0.823542850101487
+PR0305,JV132,"AutoAlliance Thailand Co., Ltd. (AAT)",Ford Motor Company,logistic_regression_balanced,0,0.0031010411356973758,0,0.823542850101487
+PR0306,JV132,"AutoAlliance Thailand Co., Ltd. (AAT)",Mazda Motor Corporation,logistic_regression_balanced,0,0.0004766909665629379,0,0.823542850101487
+PR0268,JV116,Samsung Bioepis,Samsung Biologics,logistic_regression_balanced,0,0.008780802321859672,0,0.823542850101487
+PR0069,JV032,Reliance-Disney India media JV / JioStar,Viacom18,logistic_regression_balanced,0,0.13631199926516174,0,0.823542850101487
+PR0535,JV226,NEC Lenovo Japan Group,Lenovo,logistic_regression_balanced,0,0.012204484960987496,0,0.823542850101487
+PR0422,JV182,Golden Pass LNG,QatarEnergy,logistic_regression_balanced,0,0.022568906059906062,0,0.823542850101487
+PR0499,JV210,MIRISE Technologies,DENSO,logistic_regression_balanced,0,0.08274595817498948,0,0.823542850101487
+PR0495,JV208,Amplify Cell Technologies,Daimler Truck,logistic_regression_balanced,0,0.1613566711273839,0,0.823542850101487
+PR0699,JV286,MHI Vestas Offshore Wind,Vestas Wind Systems,logistic_regression_balanced,0,0.00976304725054982,0,0.823542850101487
+PR0935,JV398,PLIVE / Prologis Logistics Investment Venture Europe,La Caisse,logistic_regression_balanced,1,0.9554204745132386,1,0.823542850101487
+PR0650,JV265,EQUATE Petrochemical Company,Qurain Petrochemical Industries Company,logistic_regression_balanced,0,0.003110281325292506,0,0.823542850101487
+PR0519,JV218,OXG Glasfaser / Vodafone-Altice FibreCo,Vodafone,logistic_regression_balanced,0,0.6148442368467194,0,0.823542850101487
+PR0862,JV362,Volvo Financial Services-Eicher Motors India finance JV,Eicher Motors,logistic_regression_balanced,0,0.21175306954880044,0,0.823542850101487
+PR1007,JV429,Aduna Global network API JV,T-Mobile,logistic_regression_balanced,0,0.10294369580983721,0,0.823542850101487
+PR0938,JV399,Arizore LLC / Bocana-Arizore mining JV,Arizore Ltd.,logistic_regression_balanced,0,0.15315309933089052,0,0.823542850101487
+PR0250,JV107,Arcius Energy,bp,logistic_regression_balanced,0,0.03340652825937792,0,0.823542850101487
+PR0442,JV187,Compañía Minera Antamina S.A. / Antamina mine,BHP,logistic_regression_balanced,0,0.013984270412573298,0,0.823542850101487
+PR1067,JV457,IsoEnergy-Purepoint Uranium Athabasca JV,IsoEnergy,logistic_regression_balanced,0,0.24520051308051202,0,0.823542850101487
+PR0833,JV348,Critical Metals-TQB rare earth processing JV,Tariq Abdel Hadi Abdullah Al-Qahtani & Brothers Company (TQB),logistic_regression_balanced,0,0.16253872114555643,0,0.823542850101487
+PR0112,JV051,Ma'aden-Alcoa aluminum JV,Ma'aden,logistic_regression_balanced,0,0.01246778189075199,0,0.823542850101487
+PR0192,JV083,BYD Toyota EV Technology (BTET),Toyota,logistic_regression_balanced,0,0.006178679322799543,0,0.823542850101487
+PR0420,JV181,Joyn Bio,Bayer,logistic_regression_balanced,0,0.03065963410566051,0,0.823542850101487
+PR0738,JV304,Oyak Renault Otomobil Fabrikaları A.Ş.,Renault Group,logistic_regression_balanced,0,0.00012155856287575438,0,0.823542850101487
+PR0781,JV322,Reliance BP Mobility / Jio-bp,bp,logistic_regression_balanced,0,0.18958654620229604,0,0.823542850101487
+PR0538,JV227,Fuji Xerox,Rank Xerox,logistic_regression_balanced,0,0.0005609182492471495,0,0.823542850101487
+PR0036,JV016,SkyShowtime,ViacomCBS / Paramount,logistic_regression_balanced,0,0.09202027739921884,0,0.823542850101487
+PR0028,JV014,Milence / European heavy-duty charging JV,Daimler Truck,logistic_regression_balanced,0,0.10199125440706097,0,0.823542850101487
+PR0750,JV309,"Hitachi Astemo, Ltd.",Honda,logistic_regression_balanced,0,0.011590741413991655,0,0.823542850101487
+PR0623,JV257,Huawei-3Com / H3C,Huawei,logistic_regression_balanced,0,0.016932082291071134,0,0.823542850101487
+PR1022,JV435,Lumax Alps Alpine India,Alps Alpine,logistic_regression_balanced,0,0.024383622599232477,0,0.823542850101487
+PR0877,JV369,KONGSBERG-Thales defence communications JV,Thales,logistic_regression_balanced,0,0.02306026040935685,0,0.823542850101487
+PR0609,JV251,McDonald's China / Fast Food Holdings,CITIC,logistic_regression_balanced,0,0.6122730878507537,0,0.823542850101487
+PR0778,JV321,Foxtron Vehicle Technologies,Hon Hai Technology Group / Foxconn,logistic_regression_balanced,0,0.01622602184936141,0,0.823542850101487
+PR0279,JV121,Bugatti Rimac,Rimac Automobili / Rimac Group,logistic_regression_balanced,0,0.01602576677103849,0,0.823542850101487
+PR0905,JV383,AirJoule LLC / GE Vernova-Montana Technologies JV,Montana Technologies,logistic_regression_balanced,0,0.33563250980034187,0,0.823542850101487
+PR0995,JV428,PO-Rein hydrogen storage JV,OPmobility (Plastic Omnium),logistic_regression_balanced,0,0.05720385917224891,0,0.823542850101487
+PR1027,JV437,SB OAI Japan,SoftBank Corp.,logistic_regression_balanced,0,0.025058334596659616,0,0.823542850101487
+PR0682,JV278,S-LCD Corporation,Samsung Electronics,logistic_regression_balanced,0,0.014120150576273142,0,0.823542850101487
+PR0276,JV119,NEOM Green Hydrogen Company,NEOM,logistic_regression_balanced,0,0.14658523691283032,0,0.823542850101487
+PR0853,JV358,KBC Securities-Van Lanschot Kempen equities JV,KBC Securities,logistic_regression_balanced,0,0.013335441780684099,0,0.823542850101487
+PR0513,JV215,nexfibre,Liberty Global,logistic_regression_balanced,0,0.8919433357195927,1,0.823542850101487
+PR0225,JV097,GAC Honda,GAC Group,logistic_regression_balanced,0,0.034352540040842476,0,0.823542850101487
+PR0849,JV356,PT Mortar Prakarsa Utama / Saint-Gobain-Indocement mortar JV,PT Cipta Mortar Utama / Saint-Gobain,logistic_regression_balanced,0,0.047383289915256234,0,0.823542850101487
+PR0554,JV232,Global Shipping Business Network (GSBN),Port of Qingdao / SPG Qingdao Port,logistic_regression_balanced,0,0.042395497565668766,0,0.823542850101487
+PR0033,JV015,Japan Advanced Semiconductor Manufacturing (JASM),DENSO,logistic_regression_balanced,0,0.09396097432516025,0,0.823542850101487
+PR0278,JV120,Hyundai Motor Manufacturing Middle East / PIF-Hyundai JV,Hyundai Motor Company,logistic_regression_balanced,0,0.07630051198675941,0,0.823542850101487
+PR0501,JV211,BluE Nexus,AISIN,logistic_regression_balanced,0,0.10985928282312823,0,0.823542850101487
+PR1050,JV448,Tianjin Nangang Ethylene Project JV,SINOPEC,logistic_regression_balanced,0,0.1844456047035263,0,0.823542850101487
+PR0969,JV415,Bericap North America / BCNA,Amcor,logistic_regression_balanced,0,0.026453808170015507,0,0.823542850101487
+PR0446,JV188,Galore Creek Partnership,Newmont,logistic_regression_balanced,0,0.14377232305560442,0,0.823542850101487
+PR0771,JV319,HysetCo,Air Liquide,logistic_regression_balanced,0,0.03910671291724585,0,0.823542850101487
+PR0664,JV271,EuroJet Turbo GmbH,ITP Aero,logistic_regression_balanced,0,0.0002856506454391619,0,0.823542850101487
+PR0960,JV410,Ethias-Weerts logistics real estate JV,Weerts Group,logistic_regression_balanced,0,0.32549398491669873,0,0.823542850101487
+PR0743,JV306,Punch Powertrain PSA e-transmissions,Punch Powertrain,logistic_regression_balanced,0,0.002059142372985829,0,0.823542850101487
+PR0516,JV217,FiberCop,TIM,logistic_regression_balanced,0,0.8973106705805188,1,0.823542850101487
+PR0223,JV096,"Beijing Benz Automotive Co., Ltd. (BBAC)",Mercedes-Benz,logistic_regression_balanced,0,0.0017168784548202344,0,0.823542850101487
+PR0927,JV394,CRML-FPCU Romania rare earth processing JV,Critical Metals Corp.,logistic_regression_balanced,0,0.008409237151619214,0,0.823542850101487
+PR0940,JV400,Looper Textile Co. / H&M-Remondis JV,Remondis,logistic_regression_balanced,0,0.07527820308527142,0,0.823542850101487
+PR0309,JV134,GE Honda Aero Engines LLC,General Electric,logistic_regression_balanced,0,0.07072746341086886,0,0.823542850101487
+PR0551,JV232,Global Shipping Business Network (GSBN),Hapag-Lloyd,logistic_regression_balanced,0,0.03517054969051099,0,0.823542850101487
+PR0067,JV031,Digital Realty-Blackstone Hyperscale Data Center JV,Blackstone funds,logistic_regression_balanced,1,0.9553805927909192,1,0.823542850101487
+PR0808,JV336,Rheinmetall ICEYE Space Solutions GmbH,Rheinmetall,logistic_regression_balanced,0,0.06374780155056294,0,0.823542850101487
+PR0873,JV367,Questerre-Nice Capital PX Energy JV,Nice Capital Holdings,logistic_regression_balanced,0,0.1857524183870325,0,0.823542850101487
+PR0186,JV081,Airbus C Series / A220 partnership,Airbus,logistic_regression_balanced,0,0.022373843058679427,0,0.823542850101487
+PR0728,JV299,"Changan PSA Automobile Co., Ltd. (CAPSA)",PSA Peugeot Citroën,logistic_regression_balanced,0,0.021670211279077548,0,0.823542850101487
+PR0571,JV235,Ichthys LNG,JERA / Chubu-related stake,logistic_regression_balanced,0,0.014770470929161927,0,0.823542850101487
+PR0819,JV341,IsoEnergy-Purepoint Athabasca Basin uranium JV,Purepoint Uranium,logistic_regression_balanced,0,0.1114956307676996,0,0.823542850101487
+PR0415,JV178,Tata Lockheed Martin Aerostructures Limited (TLMAL),Tata Advanced Systems,logistic_regression_balanced,0,0.022967646339329014,0,0.823542850101487
+PR0556,JV232,Global Shipping Business Network (GSBN),Shanghai International Port Group (SIPG),logistic_regression_balanced,0,0.042395497565668766,0,0.823542850101487
+PR0207,JV089,Bluevia,Vauban Infrastructure Partners,logistic_regression_balanced,1,0.9180894075440692,1,0.823542850101487
+PR0303,JV131,AutoAlliance International,Ford Motor Company,logistic_regression_balanced,0,0.008084432886565589,0,0.823542850101487
+PR1015,JV432,IHI-Orion Corinthia Hotel Lisbon JV,Orion European Real Estate Fund VI,logistic_regression_balanced,1,0.025117030544589435,0,0.823542850101487
+PR0324,JV138,Mozambique LNG / Area 1 Project,ENH Rovuma Área Um,logistic_regression_balanced,0,0.08761543577944812,0,0.823542850101487
+PR0005,JV003,Ultium Cells LLC,General Motors,logistic_regression_balanced,0,0.11032870081130317,0,0.823542850101487
+PR1024,JV436,International Senior Loan Program (BCSF-Pantheon),Pantheon,random_forest_balanced,1,0.28071979231930894,0,0.5403104896123712
+PR0381,JV162,Dow Corning Corporation,Dow Chemical,random_forest_balanced,0,0.15812713422651223,0,0.5403104896123712
+PR0500,JV210,MIRISE Technologies,Toyota,random_forest_balanced,0,0.18915446198410826,0,0.5403104896123712
+PR0735,JV302,Toyota Kirloskar Auto Parts Limited,Kirloskar Systems Limited,random_forest_balanced,0,0.02560833540252994,0,0.5403104896123712
+PR0550,JV232,Global Shipping Business Network (GSBN),COSCO SHIPPING Ports,random_forest_balanced,0,0.043971360004230235,0,0.5403104896123712
+PR0473,JV199,Ericsson-LG Enterprise / Ericsson-LG,LG Electronics,random_forest_balanced,0,0.02744467862177282,0,0.5403104896123712
+PR0616,JV253,Froneri,R&R Ice Cream / PAI Partners,random_forest_balanced,0,0.27597899408028576,0,0.5403104896123712
+PR0657,JV269,Galderma,Nestlé,random_forest_balanced,0,0.031274090514928264,0,0.5403104896123712
+PR0696,JV284,Leapmotor International,Leapmotor,random_forest_balanced,0,0.20255513775941705,0,0.5403104896123712
+PR0116,JV053,United Launch Alliance (ULA),Boeing,random_forest_balanced,0,0.20784496978644992,0,0.5403104896123712
+PR0109,JV049,Meta-Blue Owl Hyperion Data Center JV,Blue Owl Capital funds,random_forest_balanced,1,0.726248449878271,1,0.5403104896123712
+PR0183,JV079,BritBox US,ITV SVOD Holding,random_forest_balanced,0,0.049566164973223595,0,0.5403104896123712
+PR0258,JV111,Lithium Nevada / Thacker Pass JV,Lithium Americas,random_forest_balanced,0,0.4284710930834048,0,0.5403104896123712
+PR0614,JV252,Cereal Partners Worldwide (CPW),General Mills,random_forest_balanced,0,0.06785563086660194,0,0.5403104896123712
+PR0904,JV383,AirJoule LLC / GE Vernova-Montana Technologies JV,GE Vernova,random_forest_balanced,0,0.31700884136609647,0,0.5403104896123712
+PR0795,JV329,Electrolux-Midea Anderson Fabric Care Manufacturing JV,Midea Group,random_forest_balanced,0,0.11634935907456462,0,0.5403104896123712
+PR0126,JV057,Onduo,Verily Life Sciences,random_forest_balanced,0,0.12547617504392322,0,0.5403104896123712
+PR0824,JV344,Adani-Kowa green hydrogen marketing JV,Adani Global,random_forest_balanced,0,0.08071136097058786,0,0.5403104896123712
+PR1004,JV429,Aduna Global network API JV,Singtel,random_forest_balanced,0,0.15382776057390088,0,0.5403104896123712
+PR0624,JV257,Huawei-3Com / H3C,3Com,random_forest_balanced,0,0.12110543149400978,0,0.5403104896123712
+PR0267,JV115,Ørsted-Eversource South Fork/Revolution Wind partnership,Eversource,random_forest_balanced,0,0.2327512150830603,0,0.5403104896123712
+PR0087,JV040,Castellón Green Hydrogen S.L. / bp-Iberdrola JV,bp,random_forest_balanced,0,0.26619474966089884,0,0.5403104896123712
+PR0894,JV378,FiberPass Telefónica-Vodafone Spain FTTH JV,Telefónica España,random_forest_balanced,0,0.23000826485732698,0,0.5403104896123712
+PR0951,JV406,CARIZON,CARIAD (Volkswagen Group),random_forest_balanced,0,0.11538054250701237,0,0.5403104896123712
+PR0205,JV088,FiBrasil,CDPQ,random_forest_balanced,1,0.6776435810356007,1,0.5403104896123712
+PR0155,JV070,Ewiva,Volkswagen Group,random_forest_balanced,0,0.1493891048502348,0,0.5403104896123712
+PR0828,JV346,DowAksa Advanced Composites Holdings BV,Dow,random_forest_balanced,0,0.17823235341511076,0,0.5403104896123712
+PR0827,JV345,BluMountain-NET biochar JV,Neutralizing Environmental Trash Inc. (NET),random_forest_balanced,0,0.315947437910633,0,0.5403104896123712
+PR0120,JV055,Airbus Safran Launchers / ArianeGroup,Airbus,random_forest_balanced,0,0.24247773269757544,0,0.5403104896123712
+PR0662,JV271,EuroJet Turbo GmbH,Rolls-Royce,random_forest_balanced,0,0.01330876630132975,0,0.5403104896123712
+PR0777,JV320,Blue Point low-carbon ammonia JV,Mitsui,random_forest_balanced,0,0.25098643881613303,0,0.5403104896123712
+PR0479,JV202,"Changan Mazda Automobile Co., Ltd.",Mazda Motor Corporation,random_forest_balanced,0,0.007734822509138415,0,0.5403104896123712
+PR0926,JV393,Aetherium Medical-GloMed biologics commercialization JV,GloMed Solutions,random_forest_balanced,0,0.10812114729258766,0,0.5403104896123712
+PR0221,JV095,BMW Brilliance Automotive (BBA),BMW Group,random_forest_balanced,0,0.043808438196567344,0,0.5403104896123712
+PR0723,JV297,"eGT New Energy Automotive Co., Ltd.",Renault,random_forest_balanced,0,0.044816513894922534,0,0.5403104896123712
+PR0149,JV068,Equinix-GIC-CPP U.S. xScale expansion JV,Equinix,random_forest_balanced,0,0.6869686345134619,1,0.5403104896123712
+PR0899,JV380,Eni-PETRONAS Malaysia-Indonesia upstream JV company,PETRONAS,random_forest_balanced,0,0.08511865381010718,0,0.5403104896123712
+PR0146,JV066,Equinix-GIC xScale Europe JV,GIC,random_forest_balanced,1,0.46876648555225575,0,0.5403104896123712
+PR0776,JV320,Blue Point low-carbon ammonia JV,JERA,random_forest_balanced,0,0.24074618786360347,0,0.5403104896123712
+PR0880,JV371,RIX Business Partners / Mitsubishi Chemical-Accenture JV,Mitsubishi Chemical,random_forest_balanced,0,0.17955010020129292,0,0.5403104896123712
+PR0366,JV155,Nomura Orient International Securities,Nomura Holdings,random_forest_balanced,0,0.12184106111540681,0,0.5403104896123712
+PR0669,JV273,Panavia Aircraft GmbH,Airbus Defence and Space,random_forest_balanced,0,0.003773368765363849,0,0.5403104896123712
+PR0761,JV315,NewRange Copper Nickel LLC,PolyMet Mining,random_forest_balanced,0,0.10727807561498075,0,0.5403104896123712
+PR0693,JV283,Tata Lockheed Martin Aerostructures Limited,Tata Advanced Systems,random_forest_balanced,0,0.011690572370401282,0,0.5403104896123712
+PR1057,JV452,Coliwoo-Macritchie REHAU Building JV,Coliwoo Holdings,random_forest_balanced,0,0.5628628818001657,1,0.5403104896123712
+PR0801,JV332,NewCo Collagen / Darling-Tessenderlo collagen JV,Tessenderlo Group,random_forest_balanced,0,0.11289855869809944,0,0.5403104896123712
+PR0092,JV042,JERA Nex bp,bp,random_forest_balanced,0,0.17954170515629822,0,0.5403104896123712
+PR0409,JV175,Rheinmetall BAE Systems Land (RBSL),BAE Systems,random_forest_balanced,0,0.09252494131650876,0,0.5403104896123712
+PR0610,JV251,McDonald's China / Fast Food Holdings,CITIC Capital,random_forest_balanced,0,0.4432817512775741,0,0.5403104896123712
+PR0595,JV245,"ADVICS Co., Ltd.",Aisin Seiki,random_forest_balanced,0,0.14652528155503142,0,0.5403104896123712
+PR0797,JV330,Atlas Copco-Shareway Environmental Technology JV,Shanghai Shareway Environmental Technology minority shareholders,random_forest_balanced,0,0.10443353849070926,0,0.5403104896123712
+PR0287,JV124,BASF-YPC Company Limited,BASF,random_forest_balanced,0,0.06372812096367006,0,0.5403104896123712
+PR0240,JV103,ATR,Leonardo,random_forest_balanced,0,0.010501030853261569,0,0.5403104896123712
+PR0014,JV007,GXS Bank / Grab-Singtel digital bank consortium,Singtel,random_forest_balanced,0,0.2359118955086747,0,0.5403104896123712
+PR0883,JV372,Ma’aden-Ivanhoe Electric Saudi exploration JV,Ivanhoe Electric,random_forest_balanced,0,0.345593663145949,0,0.5403104896123712
+PR0113,JV051,Ma'aden-Alcoa aluminum JV,Alcoa,random_forest_balanced,0,0.07423888347857897,0,0.5403104896123712
+PR0785,JV324,Johnson Controls-Saft Advanced Power Solutions,Saft,random_forest_balanced,0,0.07889647654597272,0,0.5403104896123712
+PR0412,JV177,Tata Boeing Aerospace Limited (TBAL),Boeing,random_forest_balanced,0,0.14303053771471735,0,0.5403104896123712
+PR0234,JV101,"Dongfeng Motor Co., Ltd. / Dongfeng Nissan",Dongfeng Motor Group,random_forest_balanced,0,0.021015612721685974,0,0.5403104896123712
+PR0589,JV242,DP World-CDPQ Global Ports Investment Platform,CDPQ,random_forest_balanced,1,0.2618676145403026,0,0.5403104896123712
+PR0726,JV298,Dongfeng Renault Automotive Company,Renault,random_forest_balanced,0,0.04882684363866159,0,0.5403104896123712
+PR1071,JV459,A Holdings / LINE-Z Holdings integration JV,NAVER,random_forest_balanced,0,0.12114284320271927,0,0.5403104896123712
+PR0402,JV172,Airbus OneWeb Satellites LLC,Airbus,random_forest_balanced,0,0.037978522229318454,0,0.5403104896123712
+PR0537,JV227,Fuji Xerox,Fuji Photo Film / Fujifilm,random_forest_balanced,0,0.10076761759190521,0,0.5403104896123712
+PR0822,JV343,LBA Systems / Baykar-Leonardo unmanned systems JV,Baykar,random_forest_balanced,0,0.1599208661994297,0,0.5403104896123712
+PR0108,JV049,Meta-Blue Owl Hyperion Data Center JV,Meta Platforms,random_forest_balanced,0,0.6667678736724354,1,0.5403104896123712
+PR0015,JV008,LG Magna e-Powertrain,LG Electronics,random_forest_balanced,0,0.02916488531534638,0,0.5403104896123712
+PR0002,JV001,MONET Technologies,SoftBank,random_forest_balanced,0,0.07836098842588915,0,0.5403104896123712
+PR1055,JV451,RadNet-Saint Alphonsus Idaho imaging JV,RadNet,random_forest_balanced,0,0.4147833002696188,0,0.5403104896123712
+PR0627,JV259,Samsung Corning Precision Materials,Corning,random_forest_balanced,0,0.11600407263423813,0,0.5403104896123712
+PR0945,JV403,Heidelberg Materials UK-Turners bulk cement haulage JV,Heidelberg Materials UK,random_forest_balanced,0,0.3218420713897329,0,0.5403104896123712
+PR0602,JV247,SAIC-GM,General Motors,random_forest_balanced,0,0.18454578684387313,0,0.5403104896123712
+PR0869,JV366,Restora Neurosciences / PharmAla-Aluvaris-Diteba SPV,PharmAla Biotech,random_forest_balanced,0,0.2826505915330282,0,0.5403104896123712
+PR0697,JV285,"JERA Co., Inc.",TEPCO Fuel & Power,random_forest_balanced,0,0.08256989846274493,0,0.5403104896123712
+PR0353,JV149,BuyIn,Deutsche Telekom,random_forest_balanced,0,0.06972149325897949,0,0.5403104896123712
+PR0421,JV181,Joyn Bio,Ginkgo Bioworks,random_forest_balanced,0,0.13871981609820272,0,0.5403104896123712
+PR0251,JV107,Arcius Energy,XRG / ADNOC,random_forest_balanced,0,0.07290610787358243,0,0.5403104896123712
+PR0831,JV347,HexiTech LLC / CitroTech-Hexion fire-protected wood JV,Hexion,random_forest_balanced,0,0.3080412339580958,0,0.5403104896123712
+PR0464,JV196,Ardent Mills,ConAgra Foods,random_forest_balanced,0,0.22682726026369887,0,0.5403104896123712
+PR0604,JV248,Dongfeng Peugeot Citroën Automobile (DPCA),PSA Peugeot Citroën / Stellantis,random_forest_balanced,0,0.020421368177695343,0,0.5403104896123712
+PR0779,JV321,Foxtron Vehicle Technologies,Yulon Motor Group,random_forest_balanced,0,0.12239006308879802,0,0.5403104896123712
+PR0423,JV182,Golden Pass LNG,ExxonMobil,random_forest_balanced,0,0.10211370679579364,0,0.5403104896123712
+PR0094,JV043,Stellantis-CATL Spain LFP Battery JV,CATL,random_forest_balanced,0,0.15379045143822193,0,0.5403104896123712
+PR0825,JV344,Adani-Kowa green hydrogen marketing JV,Kowa Holdings Asia,random_forest_balanced,0,0.08071136097058786,0,0.5403104896123712
+PR0840,JV351,Jio Financial Services-Allianz primary insurance JV,Allianz Group,random_forest_balanced,0,0.14180859662273892,0,0.5403104896123712
+PR0714,JV293,SIRO,Vodafone Ireland,random_forest_balanced,0,0.32717475768222326,0,0.5403104896123712
+PR0454,JV191,Indus Towers Limited,Idea Group,random_forest_balanced,0,0.4260348216743571,0,0.5403104896123712
+PR0449,JV189,Veladero Mine 50/50 JV,Shandong Gold,random_forest_balanced,0,0.2881451764669308,0,0.5403104896123712
+PR0318,JV137,Cameron LNG,Sempra Energy,random_forest_balanced,0,0.11230878435002478,0,0.5403104896123712
+PR0235,JV101,"Dongfeng Motor Co., Ltd. / Dongfeng Nissan",Nissan Motor,random_forest_balanced,0,0.017824471541549793,0,0.5403104896123712
+PR0800,JV332,NewCo Collagen / Darling-Tessenderlo collagen JV,Darling Ingredients,random_forest_balanced,0,0.2899531538257385,0,0.5403104896123712
+PR0753,JV311,A+E Global Media / A+E Networks,Hearst Communications,random_forest_balanced,0,0.1694067609094706,0,0.5403104896123712
+PR0062,JV029,Leapmotor International,Stellantis,random_forest_balanced,0,0.1817607786676594,0,0.5403104896123712
+PR0698,JV285,"JERA Co., Inc.",Chubu Electric Power,random_forest_balanced,0,0.08256989846274493,0,0.5403104896123712
+PR0294,JV127,"SAIC-GM-Wuling Automobile Co., Ltd. (SGMW)",GM China,random_forest_balanced,0,0.015344774760083736,0,0.5403104896123712
+PR0615,JV253,Froneri,Nestlé,random_forest_balanced,0,0.28520037180571894,0,0.5403104896123712
+PR0902,JV382,Bosch-BASF Digital Farming JV,Bosch,random_forest_balanced,0,0.15222800752406937,0,0.5403104896123712
+PR0414,JV178,Tata Lockheed Martin Aerostructures Limited (TLMAL),Lockheed Martin,random_forest_balanced,0,0.12317352984784255,0,0.5403104896123712
+PR0742,JV305,Nidec PSA eMotors,Nidec Leroy-Somer,random_forest_balanced,0,0.031463071669136644,0,0.5403104896123712
+PR0312,JV135,Engine Alliance LLC,Pratt & Whitney,random_forest_balanced,0,0.11249391345949808,0,0.5403104896123712
+PR0437,JV185,Oman LNG LLC,PTTEP Oman E&P Corporation,random_forest_balanced,0,0.051608198948620704,0,0.5403104896123712
+PR0901,JV381,Navigator Amon Shipping AS,Amon Maritime,random_forest_balanced,0,0.36575315364190536,0,0.5403104896123712
+PR0198,JV085,European Semiconductor Manufacturing Company (ESMC),Infineon,random_forest_balanced,0,0.2524436034939715,0,0.5403104896123712
+PR0494,JV208,Amplify Cell Technologies,Accelera by Cummins,random_forest_balanced,0,0.42154060553356343,0,0.5403104896123712
+PR0375,JV159,Nokia Siemens Networks,Nokia,random_forest_balanced,0,0.038967091627912766,0,0.5403104896123712
+PR0544,JV230,Freudenberg-NOK General Partnership,NOK,random_forest_balanced,0,0.03853603817674065,0,0.5403104896123712
+PR0022,JV011,BlueOval SK,Ford,random_forest_balanced,0,0.22958736258762882,0,0.5403104896123712
+PR0865,JV364,Telenor Connexion / Telenor-Verdane IoT JV,Telenor,random_forest_balanced,0,0.42564691069163746,0,0.5403104896123712
+PR0612,JV251,McDonald's China / Fast Food Holdings,McDonald's,random_forest_balanced,0,0.5995790391609084,1,0.5403104896123712
+PR0427,JV183,Tengizchevroil LLP,Lukoil,random_forest_balanced,0,0.11865697660137196,0,0.5403104896123712
+PR0145,JV066,Equinix-GIC xScale Europe JV,Equinix,random_forest_balanced,0,0.4903612468699375,0,0.5403104896123712
+PR0837,JV350,Allianz Jio Reinsurance Limited,Jio Financial Services,random_forest_balanced,0,0.11898280790858089,0,0.5403104896123712
+PR0055,JV025,Hyundai Motor Group-LG Energy Solution Georgia battery JV,LG Energy Solution,random_forest_balanced,0,0.10561413370852538,0,0.5403104896123712
+PR0210,JV090,Fiberklaar,EQT Infrastructure,random_forest_balanced,1,0.2889992458189441,0,0.5403104896123712
+PR0265,JV114,bp-Equinor US offshore wind partnership,Equinor,random_forest_balanced,0,0.2610767784506011,0,0.5403104896123712
+PR0248,JV106,Airbus-Leonardo-Thales Space JV / Project Bromo,Leonardo,random_forest_balanced,0,0.11822537513304197,0,0.5403104896123712
+PR1032,JV440,GreenIT,Eni,random_forest_balanced,0,0.5898989922332781,1,0.5403104896123712
+PR0915,JV388,BPCE-Generali global asset management JV,BPCE / Natixis Investment Managers,random_forest_balanced,0,0.1257558200194228,0,0.5403104896123712
+PR0182,JV079,BritBox US,BBC Worldwide Americas,random_forest_balanced,0,0.049566164973223595,0,0.5403104896123712
+PR0751,JV310,Albany Safran Composites,Safran Aircraft Engines,random_forest_balanced,0,0.017341131276447316,0,0.5403104896123712
+PR0178,JV078,Hulu,NBC Universal,random_forest_balanced,0,0.2272056931954768,0,0.5403104896123712
+PR1062,JV454,Saudi Aramco Mobil Refinery Company (SAMREF),Mobil Yanbu Refining Company,random_forest_balanced,0,0.07632716369450522,0,0.5403104896123712
+PR0712,JV292,ARO Drilling,Saudi Aramco,random_forest_balanced,0,0.021006814130638218,0,0.5403104896123712
+PR0903,JV382,Bosch-BASF Digital Farming JV,BASF Digital Farming,random_forest_balanced,0,0.15222800752406937,0,0.5403104896123712
+PR0373,JV158,Sony Ericsson Mobile Communications,Sony,random_forest_balanced,0,0.04032345445587043,0,0.5403104896123712
+PR0674,JV274,Europrop International,Rolls-Royce,random_forest_balanced,0,0.015463141634490469,0,0.5403104896123712
+PR0379,JV161,LG.Philips LCD,LG Electronics / LG LCD,random_forest_balanced,0,0.2224688852569598,0,0.5403104896123712
+PR0942,JV401,Verene Energia / La Caisse-GEB Brazil transmission platform,Grupo Energía Bogotá,random_forest_balanced,0,0.3924699796161293,0,0.5403104896123712
+PR0021,JV010,Automotive Cells Company (ACC) expanded with Mercedes-Benz,Mercedes-Benz,random_forest_balanced,0,0.06971769678544132,0,0.5403104896123712
+PR0752,JV310,Albany Safran Composites,Albany International,random_forest_balanced,0,0.0536534785717609,0,0.5403104896123712
+PR0733,JV302,Toyota Kirloskar Auto Parts Limited,Toyota Motor Corporation,random_forest_balanced,0,0.021203709327314742,0,0.5403104896123712
+PR0433,JV185,Oman LNG LLC,TotalEnergies,random_forest_balanced,0,0.06303103830037231,0,0.5403104896123712
+PR0408,JV175,Rheinmetall BAE Systems Land (RBSL),Rheinmetall,random_forest_balanced,0,0.12388169956878874,0,0.5403104896123712
+PR0066,JV031,Digital Realty-Blackstone Hyperscale Data Center JV,Digital Realty,random_forest_balanced,0,0.5951373661888668,1,0.5403104896123712
+PR0542,JV229,ST-Ericsson,Ericsson,random_forest_balanced,0,0.0565734889639648,0,0.5403104896123712
+PR0677,JV275,Azule Energy,bp,random_forest_balanced,0,0.07845353483878476,0,0.5403104896123712
+PR0913,JV387,BarMar hydrogen pipeline JV,NaTran,random_forest_balanced,0,0.10486715726092986,0,0.5403104896123712
+PR0498,JV209,Cellforce Group,Customcells,random_forest_balanced,0,0.2836925860275078,0,0.5403104896123712
+PR1046,JV446,SuperX-Zhonhen Electric AI data center power JV,Zhonhen Electric,random_forest_balanced,0,0.35773763175201667,0,0.5403104896123712
+PR0351,JV148,Virgin Media O2,Liberty Global,random_forest_balanced,0,0.20577109329636523,0,0.5403104896123712
+PR0394,JV168,Flash Alliance Ltd. / Toshiba-SanDisk Fab 4 JV,SanDisk,random_forest_balanced,0,0.30038152755401537,0,0.5403104896123712
+PR0791,JV327,Electrolux-Midea North America Food Preservation Sales JV,Midea Group,random_forest_balanced,0,0.13559459903797055,0,0.5403104896123712
+PR0567,JV235,Ichthys LNG,TotalEnergies,random_forest_balanced,0,0.026667326007542857,0,0.5403104896123712
+PR0275,JV119,NEOM Green Hydrogen Company,Air Products,random_forest_balanced,0,0.3011026937871484,0,0.5403104896123712
+PR0041,JV019,Sony Honda Mobility,Sony,random_forest_balanced,0,0.13154959621289491,0,0.5403104896123712
+PR0082,JV038,Blue Owl-Chirisa-PowerHouse AI/HPC data center development partnership,Blue Owl Capital,random_forest_balanced,1,0.5278108044903492,0,0.5403104896123712
+PR0754,JV311,A+E Global Media / A+E Networks,The Walt Disney Company,random_forest_balanced,0,0.1694067609094706,0,0.5403104896123712
+PR0959,JV410,Ethias-Weerts logistics real estate JV,Ethias,random_forest_balanced,1,0.3598375417476323,0,0.5403104896123712
+PR0035,JV016,SkyShowtime,Comcast,random_forest_balanced,0,0.1962003175027269,0,0.5403104896123712
+PR0587,JV241,Borouge,Borealis,random_forest_balanced,0,0.013684747620455007,0,0.5403104896123712
+PR0705,JV289,Naviris,Fincantieri,random_forest_balanced,0,0.05231628789139382,0,0.5403104896123712
+PR0924,JV392,CitroTech-Hexion fire-protected wood products JV,Hexion,random_forest_balanced,0,0.28496603716978697,0,0.5403104896123712
+PR0613,JV252,Cereal Partners Worldwide (CPW),Nestlé,random_forest_balanced,0,0.00733162604083408,0,0.5403104896123712
+PR0530,JV223,BNP Paribas ABC Wealth Management,ABC Wealth Management,random_forest_balanced,0,0.323689115923349,0,0.5403104896123712
+PR0344,JV145,Everything Everywhere / EE,Deutsche Telekom / T-Mobile UK,random_forest_balanced,0,0.09565410084482603,0,0.5403104896123712
+PR0895,JV378,FiberPass Telefónica-Vodafone Spain FTTH JV,Vodafone Spain,random_forest_balanced,0,0.24331155382113148,0,0.5403104896123712
+PR0428,JV184,Dolphin Energy,Mubadala Energy,random_forest_balanced,0,0.031686471867097075,0,0.5403104896123712
+PR0076,JV035,Flexis SAS,Volvo Group,random_forest_balanced,0,0.2211625745899579,0,0.5403104896123712
+PR0690,JV281,ArcelorMittal Nippon Steel India (AM/NS India),Nippon Steel,random_forest_balanced,0,0.04299928551497614,0,0.5403104896123712
+PR0135,JV062,VodafoneZiggo,Liberty Global,random_forest_balanced,0,0.09434504113641436,0,0.5403104896123712
+PR0937,JV399,Arizore LLC / Bocana-Arizore mining JV,Bocana Resources,random_forest_balanced,0,0.5030748638102078,0,0.5403104896123712
+PR0874,JV368,Americold-EQT North American cold storage JV,Americold Realty Trust,random_forest_balanced,0,0.5647860962344867,1,0.5403104896123712
+PR0961,JV411,Frasers Prime Logistics Venture,Frasers Property Industrial,random_forest_balanced,0,0.7082654704996177,1,0.5403104896123712
+PR0049,JV023,GM-Samsung SDI EV battery JV,General Motors,random_forest_balanced,0,0.2543653825213849,0,0.5403104896123712
+PR0331,JV139,Tangguh LNG Project,CNOOC Muturi Ltd.,random_forest_balanced,0,0.087818663319019,0,0.5403104896123712
+PR0838,JV350,Allianz Jio Reinsurance Limited,Allianz Group,random_forest_balanced,0,0.1447514508241728,0,0.5403104896123712
+PR0383,JV163,Tata Hitachi Construction Machinery,Hitachi Construction Machinery,random_forest_balanced,0,0.024888603977097638,0,0.5403104896123712
+PR1056,JV451,RadNet-Saint Alphonsus Idaho imaging JV,Saint Alphonsus Health System,random_forest_balanced,0,0.4147833002696188,0,0.5403104896123712
+PR0920,JV390,Aclara-CAP rare earth metals and alloys JV,CAP S.A.,random_forest_balanced,0,0.37917169752111185,0,0.5403104896123712
+PR0506,JV212,J-QuAD Dynamics,JTEKT,random_forest_balanced,0,0.12807938841691172,0,0.5403104896123712
+PR1034,JV441,AdaniConneX,Adani Enterprises / Adani Group,random_forest_balanced,0,0.4894737708104107,0,0.5403104896123712
+PR0642,JV263,BASF-YPC Company Limited,BASF,random_forest_balanced,0,0.07692676761452302,0,0.5403104896123712
+PR0239,JV103,ATR,Airbus,random_forest_balanced,0,0.0069315166364305,0,0.5403104896123712
+PR0514,JV216,Wyre,Telenet,random_forest_balanced,0,0.4011923856475256,0,0.5403104896123712
+PR0555,JV232,Global Shipping Business Network (GSBN),PSA International,random_forest_balanced,0,0.1514884239879502,0,0.5403104896123712
+PR0518,JV217,FiberCop,Fastweb,random_forest_balanced,0,0.5378180666077005,0,0.5403104896123712
+PR0119,JV054,CFM International,Safran Aircraft Engines,random_forest_balanced,0,0.015590599738530947,0,0.5403104896123712
+PR0852,JV357,Mahindra-Manulife life insurance JV,Manulife Financial Corporation,random_forest_balanced,0,0.3577099193296983,0,0.5403104896123712
+PR1011,JV430,Greater Gabbard Offshore Wind Farm,RWE,random_forest_balanced,0,0.08468047267107053,0,0.5403104896123712
+PR0548,JV232,Global Shipping Business Network (GSBN),CMA CGM,random_forest_balanced,0,0.037792185751472286,0,0.5403104896123712
+PR0159,JV071,IONNA charging network JV,Hyundai,random_forest_balanced,0,0.035535044133935725,0,0.5403104896123712
+PR0425,JV183,Tengizchevroil LLP,ExxonMobil,random_forest_balanced,0,0.11164915552112326,0,0.5403104896123712
+PR0288,JV124,BASF-YPC Company Limited,Sinopec,random_forest_balanced,0,0.03628001049967789,0,0.5403104896123712
+PR0349,JV147,Cornerstone Telecommunications Infrastructure,Vodafone UK / Vantage Towers,random_forest_balanced,0,0.44037811876255734,0,0.5403104896123712
+PR0967,JV414,Texas Critical Data Centers LLC,New Era Energy & Digital,random_forest_balanced,0,0.2129566071598158,0,0.5403104896123712
+PR0101,JV046,Iberdrola-Masdar East Anglia THREE offshore wind co-investment,Masdar,random_forest_balanced,0,0.2670478346430117,0,0.5403104896123712
+PR0605,JV249,"Beijing Foton Daimler Automotive Co., Ltd. (BFDA)",Foton Motor,random_forest_balanced,0,0.009431772114293968,0,0.5403104896123712
+PR0305,JV132,"AutoAlliance Thailand Co., Ltd. (AAT)",Ford Motor Company,random_forest_balanced,0,0.04994702916153127,0,0.5403104896123712
+PR0306,JV132,"AutoAlliance Thailand Co., Ltd. (AAT)",Mazda Motor Corporation,random_forest_balanced,0,0.0038839148815716486,0,0.5403104896123712
+PR0268,JV116,Samsung Bioepis,Samsung Biologics,random_forest_balanced,0,0.01000891071089704,0,0.5403104896123712
+PR0069,JV032,Reliance-Disney India media JV / JioStar,Viacom18,random_forest_balanced,0,0.19597856438668831,0,0.5403104896123712
+PR0535,JV226,NEC Lenovo Japan Group,Lenovo,random_forest_balanced,0,0.027590592986215388,0,0.5403104896123712
+PR0422,JV182,Golden Pass LNG,QatarEnergy,random_forest_balanced,0,0.07587117147599258,0,0.5403104896123712
+PR0499,JV210,MIRISE Technologies,DENSO,random_forest_balanced,0,0.17089398308022596,0,0.5403104896123712
+PR0495,JV208,Amplify Cell Technologies,Daimler Truck,random_forest_balanced,0,0.28506299428803505,0,0.5403104896123712
+PR0699,JV286,MHI Vestas Offshore Wind,Vestas Wind Systems,random_forest_balanced,0,0.02681528791702748,0,0.5403104896123712
+PR0935,JV398,PLIVE / Prologis Logistics Investment Venture Europe,La Caisse,random_forest_balanced,1,0.6199631476575884,1,0.5403104896123712
+PR0650,JV265,EQUATE Petrochemical Company,Qurain Petrochemical Industries Company,random_forest_balanced,0,0.07673016290498458,0,0.5403104896123712
+PR0519,JV218,OXG Glasfaser / Vodafone-Altice FibreCo,Vodafone,random_forest_balanced,0,0.44275128290053517,0,0.5403104896123712
+PR0862,JV362,Volvo Financial Services-Eicher Motors India finance JV,Eicher Motors,random_forest_balanced,0,0.22426187183176527,0,0.5403104896123712
+PR1007,JV429,Aduna Global network API JV,T-Mobile,random_forest_balanced,0,0.12144881330906564,0,0.5403104896123712
+PR0938,JV399,Arizore LLC / Bocana-Arizore mining JV,Arizore Ltd.,random_forest_balanced,0,0.4379586632286594,0,0.5403104896123712
+PR0250,JV107,Arcius Energy,bp,random_forest_balanced,0,0.07220805586199741,0,0.5403104896123712
+PR0442,JV187,Compañía Minera Antamina S.A. / Antamina mine,BHP,random_forest_balanced,0,0.030297565445387153,0,0.5403104896123712
+PR1067,JV457,IsoEnergy-Purepoint Uranium Athabasca JV,IsoEnergy,random_forest_balanced,0,0.3759221954043512,0,0.5403104896123712
+PR0833,JV348,Critical Metals-TQB rare earth processing JV,Tariq Abdel Hadi Abdullah Al-Qahtani & Brothers Company (TQB),random_forest_balanced,0,0.3610539345265474,0,0.5403104896123712
+PR0112,JV051,Ma'aden-Alcoa aluminum JV,Ma'aden,random_forest_balanced,0,0.01935336370298528,0,0.5403104896123712
+PR0192,JV083,BYD Toyota EV Technology (BTET),Toyota,random_forest_balanced,0,0.02045407987098893,0,0.5403104896123712
+PR0420,JV181,Joyn Bio,Bayer,random_forest_balanced,0,0.0773949728919626,0,0.5403104896123712
+PR0738,JV304,Oyak Renault Otomobil Fabrikaları A.Ş.,Renault Group,random_forest_balanced,0,0.01582255500161615,0,0.5403104896123712
+PR0781,JV322,Reliance BP Mobility / Jio-bp,bp,random_forest_balanced,0,0.22323263251834974,0,0.5403104896123712
+PR0538,JV227,Fuji Xerox,Rank Xerox,random_forest_balanced,0,0.12054466751828535,0,0.5403104896123712
+PR0036,JV016,SkyShowtime,ViacomCBS / Paramount,random_forest_balanced,0,0.1962003175027269,0,0.5403104896123712
+PR0028,JV014,Milence / European heavy-duty charging JV,Daimler Truck,random_forest_balanced,0,0.2927660719336519,0,0.5403104896123712
+PR0750,JV309,"Hitachi Astemo, Ltd.",Honda,random_forest_balanced,0,0.09724795184432569,0,0.5403104896123712
+PR0623,JV257,Huawei-3Com / H3C,Huawei,random_forest_balanced,0,0.040292571015157645,0,0.5403104896123712
+PR1022,JV435,Lumax Alps Alpine India,Alps Alpine,random_forest_balanced,0,0.09916283815727912,0,0.5403104896123712
+PR0877,JV369,KONGSBERG-Thales defence communications JV,Thales,random_forest_balanced,0,0.1175432560359386,0,0.5403104896123712
+PR0609,JV251,McDonald's China / Fast Food Holdings,CITIC,random_forest_balanced,0,0.4432817512775741,0,0.5403104896123712
+PR0778,JV321,Foxtron Vehicle Technologies,Hon Hai Technology Group / Foxconn,random_forest_balanced,0,0.12239006308879802,0,0.5403104896123712
+PR0279,JV121,Bugatti Rimac,Rimac Automobili / Rimac Group,random_forest_balanced,0,0.03842934596479857,0,0.5403104896123712
+PR0905,JV383,AirJoule LLC / GE Vernova-Montana Technologies JV,Montana Technologies,random_forest_balanced,0,0.31700884136609647,0,0.5403104896123712
+PR0995,JV428,PO-Rein hydrogen storage JV,OPmobility (Plastic Omnium),random_forest_balanced,0,0.10450112507642081,0,0.5403104896123712
+PR1027,JV437,SB OAI Japan,SoftBank Corp.,random_forest_balanced,0,0.20466639223794938,0,0.5403104896123712
+PR0682,JV278,S-LCD Corporation,Samsung Electronics,random_forest_balanced,0,0.17235487742973654,0,0.5403104896123712
+PR0276,JV119,NEOM Green Hydrogen Company,NEOM,random_forest_balanced,0,0.20838415481266706,0,0.5403104896123712
+PR0853,JV358,KBC Securities-Van Lanschot Kempen equities JV,KBC Securities,random_forest_balanced,0,0.144323818057374,0,0.5403104896123712
+PR0513,JV215,nexfibre,Liberty Global,random_forest_balanced,0,0.5612696328672173,1,0.5403104896123712
+PR0225,JV097,GAC Honda,GAC Group,random_forest_balanced,0,0.09276218739439449,0,0.5403104896123712
+PR0849,JV356,PT Mortar Prakarsa Utama / Saint-Gobain-Indocement mortar JV,PT Cipta Mortar Utama / Saint-Gobain,random_forest_balanced,0,0.15741753873898864,0,0.5403104896123712
+PR0554,JV232,Global Shipping Business Network (GSBN),Port of Qingdao / SPG Qingdao Port,random_forest_balanced,0,0.043971360004230235,0,0.5403104896123712
+PR0033,JV015,Japan Advanced Semiconductor Manufacturing (JASM),DENSO,random_forest_balanced,0,0.1701611554701368,0,0.5403104896123712
+PR0278,JV120,Hyundai Motor Manufacturing Middle East / PIF-Hyundai JV,Hyundai Motor Company,random_forest_balanced,0,0.20180622321021757,0,0.5403104896123712
+PR0501,JV211,BluE Nexus,AISIN,random_forest_balanced,0,0.17860081680636772,0,0.5403104896123712
+PR1050,JV448,Tianjin Nangang Ethylene Project JV,SINOPEC,random_forest_balanced,0,0.29678418899915604,0,0.5403104896123712
+PR0969,JV415,Bericap North America / BCNA,Amcor,random_forest_balanced,0,0.12614538184484309,0,0.5403104896123712
+PR0446,JV188,Galore Creek Partnership,Newmont,random_forest_balanced,0,0.3741433283652879,0,0.5403104896123712
+PR0771,JV319,HysetCo,Air Liquide,random_forest_balanced,0,0.03065777731226386,0,0.5403104896123712
+PR0664,JV271,EuroJet Turbo GmbH,ITP Aero,random_forest_balanced,0,0.008610511077437634,0,0.5403104896123712
+PR0960,JV410,Ethias-Weerts logistics real estate JV,Weerts Group,random_forest_balanced,0,0.3598375417476323,0,0.5403104896123712
+PR0743,JV306,Punch Powertrain PSA e-transmissions,Punch Powertrain,random_forest_balanced,0,0.021968482521890213,0,0.5403104896123712
+PR0516,JV217,FiberCop,TIM,random_forest_balanced,0,0.5378180666077005,0,0.5403104896123712
+PR0223,JV096,"Beijing Benz Automotive Co., Ltd. (BBAC)",Mercedes-Benz,random_forest_balanced,0,0.019403337147072715,0,0.5403104896123712
+PR0927,JV394,CRML-FPCU Romania rare earth processing JV,Critical Metals Corp.,random_forest_balanced,0,0.08617134610474622,0,0.5403104896123712
+PR0940,JV400,Looper Textile Co. / H&M-Remondis JV,Remondis,random_forest_balanced,0,0.1759123490623864,0,0.5403104896123712
+PR0309,JV134,GE Honda Aero Engines LLC,General Electric,random_forest_balanced,0,0.1267340725773518,0,0.5403104896123712
+PR0551,JV232,Global Shipping Business Network (GSBN),Hapag-Lloyd,random_forest_balanced,0,0.05345486653516394,0,0.5403104896123712
+PR0067,JV031,Digital Realty-Blackstone Hyperscale Data Center JV,Blackstone funds,random_forest_balanced,1,0.653022206730274,1,0.5403104896123712
+PR0808,JV336,Rheinmetall ICEYE Space Solutions GmbH,Rheinmetall,random_forest_balanced,0,0.16783826484901881,0,0.5403104896123712
+PR0873,JV367,Questerre-Nice Capital PX Energy JV,Nice Capital Holdings,random_forest_balanced,0,0.26002465466066704,0,0.5403104896123712
+PR0186,JV081,Airbus C Series / A220 partnership,Airbus,random_forest_balanced,0,0.027374236688586635,0,0.5403104896123712
+PR0728,JV299,"Changan PSA Automobile Co., Ltd. (CAPSA)",PSA Peugeot Citroën,random_forest_balanced,0,0.04882684363866159,0,0.5403104896123712
+PR0571,JV235,Ichthys LNG,JERA / Chubu-related stake,random_forest_balanced,0,0.004807109436269335,0,0.5403104896123712
+PR0819,JV341,IsoEnergy-Purepoint Athabasca Basin uranium JV,Purepoint Uranium,random_forest_balanced,0,0.3057858717223069,0,0.5403104896123712
+PR0415,JV178,Tata Lockheed Martin Aerostructures Limited (TLMAL),Tata Advanced Systems,random_forest_balanced,0,0.025749001734232592,0,0.5403104896123712
+PR0556,JV232,Global Shipping Business Network (GSBN),Shanghai International Port Group (SIPG),random_forest_balanced,0,0.043971360004230235,0,0.5403104896123712
+PR0207,JV089,Bluevia,Vauban Infrastructure Partners,random_forest_balanced,1,0.7587463454352672,1,0.5403104896123712
+PR0303,JV131,AutoAlliance International,Ford Motor Company,random_forest_balanced,0,0.07678302239628286,0,0.5403104896123712
+PR1015,JV432,IHI-Orion Corinthia Hotel Lisbon JV,Orion European Real Estate Fund VI,random_forest_balanced,1,0.2200678246681438,0,0.5403104896123712
+PR0324,JV138,Mozambique LNG / Area 1 Project,ENH Rovuma Área Um,random_forest_balanced,0,0.038262574772032425,0,0.5403104896123712
+PR0005,JV003,Ultium Cells LLC,General Motors,random_forest_balanced,0,0.2221481083821198,0,0.5403104896123712
+PR1024,JV436,International Senior Loan Program (BCSF-Pantheon),Pantheon,extra_trees_balanced,1,0.18611415996910677,0,0.7915606866926607
+PR0381,JV162,Dow Corning Corporation,Dow Chemical,extra_trees_balanced,0,0.14928639991517342,0,0.7915606866926607
+PR0500,JV210,MIRISE Technologies,Toyota,extra_trees_balanced,0,0.1423511931420717,0,0.7915606866926607
+PR0735,JV302,Toyota Kirloskar Auto Parts Limited,Kirloskar Systems Limited,extra_trees_balanced,0,0.026425336453324032,0,0.7915606866926607
+PR0550,JV232,Global Shipping Business Network (GSBN),COSCO SHIPPING Ports,extra_trees_balanced,0,0.015554743963296203,0,0.7915606866926607
+PR0473,JV199,Ericsson-LG Enterprise / Ericsson-LG,LG Electronics,extra_trees_balanced,0,0.018602100005983592,0,0.7915606866926607
+PR0616,JV253,Froneri,R&R Ice Cream / PAI Partners,extra_trees_balanced,0,0.2320715413989563,0,0.7915606866926607
+PR0657,JV269,Galderma,Nestlé,extra_trees_balanced,0,0.026862437936110862,0,0.7915606866926607
+PR0696,JV284,Leapmotor International,Leapmotor,extra_trees_balanced,0,0.15017387285410805,0,0.7915606866926607
+PR0116,JV053,United Launch Alliance (ULA),Boeing,extra_trees_balanced,0,0.25553084487713035,0,0.7915606866926607
+PR0109,JV049,Meta-Blue Owl Hyperion Data Center JV,Blue Owl Capital funds,extra_trees_balanced,1,0.8129586685052562,1,0.7915606866926607
+PR0183,JV079,BritBox US,ITV SVOD Holding,extra_trees_balanced,0,0.052864195560554786,0,0.7915606866926607
+PR0258,JV111,Lithium Nevada / Thacker Pass JV,Lithium Americas,extra_trees_balanced,0,0.3374911203729376,0,0.7915606866926607
+PR0614,JV252,Cereal Partners Worldwide (CPW),General Mills,extra_trees_balanced,0,0.0829957067766038,0,0.7915606866926607
+PR0904,JV383,AirJoule LLC / GE Vernova-Montana Technologies JV,GE Vernova,extra_trees_balanced,0,0.3023885960314988,0,0.7915606866926607
+PR0795,JV329,Electrolux-Midea Anderson Fabric Care Manufacturing JV,Midea Group,extra_trees_balanced,0,0.05770053676853075,0,0.7915606866926607
+PR0126,JV057,Onduo,Verily Life Sciences,extra_trees_balanced,0,0.16861399425069437,0,0.7915606866926607
+PR0824,JV344,Adani-Kowa green hydrogen marketing JV,Adani Global,extra_trees_balanced,0,0.04179266605113965,0,0.7915606866926607
+PR1004,JV429,Aduna Global network API JV,Singtel,extra_trees_balanced,0,0.25645463555573567,0,0.7915606866926607
+PR0624,JV257,Huawei-3Com / H3C,3Com,extra_trees_balanced,0,0.1609020260274839,0,0.7915606866926607
+PR0267,JV115,Ørsted-Eversource South Fork/Revolution Wind partnership,Eversource,extra_trees_balanced,0,0.2721800934661247,0,0.7915606866926607
+PR0087,JV040,Castellón Green Hydrogen S.L. / bp-Iberdrola JV,bp,extra_trees_balanced,0,0.12635016074293975,0,0.7915606866926607
+PR0894,JV378,FiberPass Telefónica-Vodafone Spain FTTH JV,Telefónica España,extra_trees_balanced,0,0.09780728588450348,0,0.7915606866926607
+PR0951,JV406,CARIZON,CARIAD (Volkswagen Group),extra_trees_balanced,0,0.10362018260159925,0,0.7915606866926607
+PR0205,JV088,FiBrasil,CDPQ,extra_trees_balanced,1,0.6470176433940311,0,0.7915606866926607
+PR0155,JV070,Ewiva,Volkswagen Group,extra_trees_balanced,0,0.17309507552392142,0,0.7915606866926607
+PR0828,JV346,DowAksa Advanced Composites Holdings BV,Dow,extra_trees_balanced,0,0.16740669535589264,0,0.7915606866926607
+PR0827,JV345,BluMountain-NET biochar JV,Neutralizing Environmental Trash Inc. (NET),extra_trees_balanced,0,0.30780214592405675,0,0.7915606866926607
+PR0120,JV055,Airbus Safran Launchers / ArianeGroup,Airbus,extra_trees_balanced,0,0.36253604520039073,0,0.7915606866926607
+PR0662,JV271,EuroJet Turbo GmbH,Rolls-Royce,extra_trees_balanced,0,0.005262498242292209,0,0.7915606866926607
+PR0777,JV320,Blue Point low-carbon ammonia JV,Mitsui,extra_trees_balanced,0,0.1437343761402756,0,0.7915606866926607
+PR0479,JV202,"Changan Mazda Automobile Co., Ltd.",Mazda Motor Corporation,extra_trees_balanced,0,0.009981788378686542,0,0.7915606866926607
+PR0926,JV393,Aetherium Medical-GloMed biologics commercialization JV,GloMed Solutions,extra_trees_balanced,0,0.050380830012711694,0,0.7915606866926607
+PR0221,JV095,BMW Brilliance Automotive (BBA),BMW Group,extra_trees_balanced,0,0.04449485846047882,0,0.7915606866926607
+PR0723,JV297,"eGT New Energy Automotive Co., Ltd.",Renault,extra_trees_balanced,0,0.018827132862317953,0,0.7915606866926607
+PR0149,JV068,Equinix-GIC-CPP U.S. xScale expansion JV,Equinix,extra_trees_balanced,0,0.7954534674847689,1,0.7915606866926607
+PR0899,JV380,Eni-PETRONAS Malaysia-Indonesia upstream JV company,PETRONAS,extra_trees_balanced,0,0.05620795744378596,0,0.7915606866926607
+PR0146,JV066,Equinix-GIC xScale Europe JV,GIC,extra_trees_balanced,1,0.679817422036727,0,0.7915606866926607
+PR0776,JV320,Blue Point low-carbon ammonia JV,JERA,extra_trees_balanced,0,0.13692167838675437,0,0.7915606866926607
+PR0880,JV371,RIX Business Partners / Mitsubishi Chemical-Accenture JV,Mitsubishi Chemical,extra_trees_balanced,0,0.0890268943430189,0,0.7915606866926607
+PR0366,JV155,Nomura Orient International Securities,Nomura Holdings,extra_trees_balanced,0,0.06454285652978287,0,0.7915606866926607
+PR0669,JV273,Panavia Aircraft GmbH,Airbus Defence and Space,extra_trees_balanced,0,0.003683773936295176,0,0.7915606866926607
+PR0761,JV315,NewRange Copper Nickel LLC,PolyMet Mining,extra_trees_balanced,0,0.0688131901380293,0,0.7915606866926607
+PR0693,JV283,Tata Lockheed Martin Aerostructures Limited,Tata Advanced Systems,extra_trees_balanced,0,0.0195563753570973,0,0.7915606866926607
+PR1057,JV452,Coliwoo-Macritchie REHAU Building JV,Coliwoo Holdings,extra_trees_balanced,0,0.663871642387172,0,0.7915606866926607
+PR0801,JV332,NewCo Collagen / Darling-Tessenderlo collagen JV,Tessenderlo Group,extra_trees_balanced,0,0.04670509583301126,0,0.7915606866926607
+PR0092,JV042,JERA Nex bp,bp,extra_trees_balanced,0,0.12088905777783537,0,0.7915606866926607
+PR0409,JV175,Rheinmetall BAE Systems Land (RBSL),BAE Systems,extra_trees_balanced,0,0.16223092485521864,0,0.7915606866926607
+PR0610,JV251,McDonald's China / Fast Food Holdings,CITIC Capital,extra_trees_balanced,0,0.4782719469152037,0,0.7915606866926607
+PR0595,JV245,"ADVICS Co., Ltd.",Aisin Seiki,extra_trees_balanced,0,0.05491823900229515,0,0.7915606866926607
+PR0797,JV330,Atlas Copco-Shareway Environmental Technology JV,Shanghai Shareway Environmental Technology minority shareholders,extra_trees_balanced,0,0.05111625147181225,0,0.7915606866926607
+PR0287,JV124,BASF-YPC Company Limited,BASF,extra_trees_balanced,0,0.054874103424365946,0,0.7915606866926607
+PR0240,JV103,ATR,Leonardo,extra_trees_balanced,0,0.00566661190461674,0,0.7915606866926607
+PR0014,JV007,GXS Bank / Grab-Singtel digital bank consortium,Singtel,extra_trees_balanced,0,0.30441637548314937,0,0.7915606866926607
+PR0883,JV372,Ma’aden-Ivanhoe Electric Saudi exploration JV,Ivanhoe Electric,extra_trees_balanced,0,0.31355754636145433,0,0.7915606866926607
+PR0113,JV051,Ma'aden-Alcoa aluminum JV,Alcoa,extra_trees_balanced,0,0.08342118519816599,0,0.7915606866926607
+PR0785,JV324,Johnson Controls-Saft Advanced Power Solutions,Saft,extra_trees_balanced,0,0.0484624011608901,0,0.7915606866926607
+PR0412,JV177,Tata Boeing Aerospace Limited (TBAL),Boeing,extra_trees_balanced,0,0.19178234709445202,0,0.7915606866926607
+PR0234,JV101,"Dongfeng Motor Co., Ltd. / Dongfeng Nissan",Dongfeng Motor Group,extra_trees_balanced,0,0.02715818399301553,0,0.7915606866926607
+PR0589,JV242,DP World-CDPQ Global Ports Investment Platform,CDPQ,extra_trees_balanced,1,0.3305466042544484,0,0.7915606866926607
+PR0726,JV298,Dongfeng Renault Automotive Company,Renault,extra_trees_balanced,0,0.03510723909797688,0,0.7915606866926607
+PR1071,JV459,A Holdings / LINE-Z Holdings integration JV,NAVER,extra_trees_balanced,0,0.15292360841740288,0,0.7915606866926607
+PR0402,JV172,Airbus OneWeb Satellites LLC,Airbus,extra_trees_balanced,0,0.03162203633093358,0,0.7915606866926607
+PR0537,JV227,Fuji Xerox,Fuji Photo Film / Fujifilm,extra_trees_balanced,0,0.03097494315126039,0,0.7915606866926607
+PR0822,JV343,LBA Systems / Baykar-Leonardo unmanned systems JV,Baykar,extra_trees_balanced,0,0.14387262946410834,0,0.7915606866926607
+PR0108,JV049,Meta-Blue Owl Hyperion Data Center JV,Meta Platforms,extra_trees_balanced,0,0.7841093543470428,0,0.7915606866926607
+PR0015,JV008,LG Magna e-Powertrain,LG Electronics,extra_trees_balanced,0,0.014457961610244891,0,0.7915606866926607
+PR0002,JV001,MONET Technologies,SoftBank,extra_trees_balanced,0,0.07433385090700054,0,0.7915606866926607
+PR1055,JV451,RadNet-Saint Alphonsus Idaho imaging JV,RadNet,extra_trees_balanced,0,0.40399209837206324,0,0.7915606866926607
+PR0627,JV259,Samsung Corning Precision Materials,Corning,extra_trees_balanced,0,0.14638373919208178,0,0.7915606866926607
+PR0945,JV403,Heidelberg Materials UK-Turners bulk cement haulage JV,Heidelberg Materials UK,extra_trees_balanced,0,0.2787901317387724,0,0.7915606866926607
+PR0602,JV247,SAIC-GM,General Motors,extra_trees_balanced,0,0.17212719662037307,0,0.7915606866926607
+PR0869,JV366,Restora Neurosciences / PharmAla-Aluvaris-Diteba SPV,PharmAla Biotech,extra_trees_balanced,0,0.2547040643641816,0,0.7915606866926607
+PR0697,JV285,"JERA Co., Inc.",TEPCO Fuel & Power,extra_trees_balanced,0,0.09829281548455446,0,0.7915606866926607
+PR0353,JV149,BuyIn,Deutsche Telekom,extra_trees_balanced,0,0.07155434788671376,0,0.7915606866926607
+PR0421,JV181,Joyn Bio,Ginkgo Bioworks,extra_trees_balanced,0,0.17905606413725195,0,0.7915606866926607
+PR0251,JV107,Arcius Energy,XRG / ADNOC,extra_trees_balanced,0,0.026428500901590393,0,0.7915606866926607
+PR0831,JV347,HexiTech LLC / CitroTech-Hexion fire-protected wood JV,Hexion,extra_trees_balanced,0,0.2305862243477659,0,0.7915606866926607
+PR0464,JV196,Ardent Mills,ConAgra Foods,extra_trees_balanced,0,0.23571928826930286,0,0.7915606866926607
+PR0604,JV248,Dongfeng Peugeot Citroën Automobile (DPCA),PSA Peugeot Citroën / Stellantis,extra_trees_balanced,0,0.018067731511812565,0,0.7915606866926607
+PR0779,JV321,Foxtron Vehicle Technologies,Yulon Motor Group,extra_trees_balanced,0,0.08876169465592454,0,0.7915606866926607
+PR0423,JV182,Golden Pass LNG,ExxonMobil,extra_trees_balanced,0,0.12713751712986782,0,0.7915606866926607
+PR0094,JV043,Stellantis-CATL Spain LFP Battery JV,CATL,extra_trees_balanced,0,0.06880988349246489,0,0.7915606866926607
+PR0825,JV344,Adani-Kowa green hydrogen marketing JV,Kowa Holdings Asia,extra_trees_balanced,0,0.04179266605113965,0,0.7915606866926607
+PR0840,JV351,Jio Financial Services-Allianz primary insurance JV,Allianz Group,extra_trees_balanced,0,0.13695733197698773,0,0.7915606866926607
+PR0714,JV293,SIRO,Vodafone Ireland,extra_trees_balanced,0,0.3954201644524731,0,0.7915606866926607
+PR0454,JV191,Indus Towers Limited,Idea Group,extra_trees_balanced,0,0.5335766399489824,0,0.7915606866926607
+PR0449,JV189,Veladero Mine 50/50 JV,Shandong Gold,extra_trees_balanced,0,0.1638551993375697,0,0.7915606866926607
+PR0318,JV137,Cameron LNG,Sempra Energy,extra_trees_balanced,0,0.1697958241251363,0,0.7915606866926607
+PR0235,JV101,"Dongfeng Motor Co., Ltd. / Dongfeng Nissan",Nissan Motor,extra_trees_balanced,0,0.021778423784112166,0,0.7915606866926607
+PR0800,JV332,NewCo Collagen / Darling-Tessenderlo collagen JV,Darling Ingredients,extra_trees_balanced,0,0.190149367830202,0,0.7915606866926607
+PR0753,JV311,A+E Global Media / A+E Networks,Hearst Communications,extra_trees_balanced,0,0.18794051715989402,0,0.7915606866926607
+PR0062,JV029,Leapmotor International,Stellantis,extra_trees_balanced,0,0.0755836241282453,0,0.7915606866926607
+PR0698,JV285,"JERA Co., Inc.",Chubu Electric Power,extra_trees_balanced,0,0.09829281548455446,0,0.7915606866926607
+PR0294,JV127,"SAIC-GM-Wuling Automobile Co., Ltd. (SGMW)",GM China,extra_trees_balanced,0,0.013354949946230063,0,0.7915606866926607
+PR0615,JV253,Froneri,Nestlé,extra_trees_balanced,0,0.32671093690032066,0,0.7915606866926607
+PR0902,JV382,Bosch-BASF Digital Farming JV,Bosch,extra_trees_balanced,0,0.15237506064072376,0,0.7915606866926607
+PR0414,JV178,Tata Lockheed Martin Aerostructures Limited (TLMAL),Lockheed Martin,extra_trees_balanced,0,0.15112493072752278,0,0.7915606866926607
+PR0742,JV305,Nidec PSA eMotors,Nidec Leroy-Somer,extra_trees_balanced,0,0.03869529673527797,0,0.7915606866926607
+PR0312,JV135,Engine Alliance LLC,Pratt & Whitney,extra_trees_balanced,0,0.10571442029366011,0,0.7915606866926607
+PR0437,JV185,Oman LNG LLC,PTTEP Oman E&P Corporation,extra_trees_balanced,0,0.009991068592977334,0,0.7915606866926607
+PR0901,JV381,Navigator Amon Shipping AS,Amon Maritime,extra_trees_balanced,0,0.2999858823265817,0,0.7915606866926607
+PR0198,JV085,European Semiconductor Manufacturing Company (ESMC),Infineon,extra_trees_balanced,0,0.16655345678603145,0,0.7915606866926607
+PR0494,JV208,Amplify Cell Technologies,Accelera by Cummins,extra_trees_balanced,0,0.6270501898431773,0,0.7915606866926607
+PR0375,JV159,Nokia Siemens Networks,Nokia,extra_trees_balanced,0,0.04191613543536453,0,0.7915606866926607
+PR0544,JV230,Freudenberg-NOK General Partnership,NOK,extra_trees_balanced,0,0.026316157311805005,0,0.7915606866926607
+PR0022,JV011,BlueOval SK,Ford,extra_trees_balanced,0,0.22575000932400202,0,0.7915606866926607
+PR0865,JV364,Telenor Connexion / Telenor-Verdane IoT JV,Telenor,extra_trees_balanced,0,0.41080760464712707,0,0.7915606866926607
+PR0612,JV251,McDonald's China / Fast Food Holdings,McDonald's,extra_trees_balanced,0,0.8180776000182025,1,0.7915606866926607
+PR0427,JV183,Tengizchevroil LLP,Lukoil,extra_trees_balanced,0,0.03943821956062091,0,0.7915606866926607
+PR0145,JV066,Equinix-GIC xScale Europe JV,Equinix,extra_trees_balanced,0,0.6609095271327047,0,0.7915606866926607
+PR0837,JV350,Allianz Jio Reinsurance Limited,Jio Financial Services,extra_trees_balanced,0,0.08416902427848078,0,0.7915606866926607
+PR0055,JV025,Hyundai Motor Group-LG Energy Solution Georgia battery JV,LG Energy Solution,extra_trees_balanced,0,0.0344712863693042,0,0.7915606866926607
+PR0210,JV090,Fiberklaar,EQT Infrastructure,extra_trees_balanced,1,0.2963017767214977,0,0.7915606866926607
+PR0265,JV114,bp-Equinor US offshore wind partnership,Equinor,extra_trees_balanced,0,0.15862381771009082,0,0.7915606866926607
+PR0248,JV106,Airbus-Leonardo-Thales Space JV / Project Bromo,Leonardo,extra_trees_balanced,0,0.04252502427982641,0,0.7915606866926607
+PR1032,JV440,GreenIT,Eni,extra_trees_balanced,0,0.8655196456394202,1,0.7915606866926607
+PR0915,JV388,BPCE-Generali global asset management JV,BPCE / Natixis Investment Managers,extra_trees_balanced,0,0.05531968620742802,0,0.7915606866926607
+PR0182,JV079,BritBox US,BBC Worldwide Americas,extra_trees_balanced,0,0.052864195560554786,0,0.7915606866926607
+PR0751,JV310,Albany Safran Composites,Safran Aircraft Engines,extra_trees_balanced,0,0.004532448471019136,0,0.7915606866926607
+PR0178,JV078,Hulu,NBC Universal,extra_trees_balanced,0,0.2243762383738011,0,0.7915606866926607
+PR1062,JV454,Saudi Aramco Mobil Refinery Company (SAMREF),Mobil Yanbu Refining Company,extra_trees_balanced,0,0.06068655766897372,0,0.7915606866926607
+PR0712,JV292,ARO Drilling,Saudi Aramco,extra_trees_balanced,0,0.02034972877213232,0,0.7915606866926607
+PR0903,JV382,Bosch-BASF Digital Farming JV,BASF Digital Farming,extra_trees_balanced,0,0.15237506064072376,0,0.7915606866926607
+PR0373,JV158,Sony Ericsson Mobile Communications,Sony,extra_trees_balanced,0,0.0428540598654614,0,0.7915606866926607
+PR0674,JV274,Europrop International,Rolls-Royce,extra_trees_balanced,0,0.006547202501647271,0,0.7915606866926607
+PR0379,JV161,LG.Philips LCD,LG Electronics / LG LCD,extra_trees_balanced,0,0.18056689593594963,0,0.7915606866926607
+PR0942,JV401,Verene Energia / La Caisse-GEB Brazil transmission platform,Grupo Energía Bogotá,extra_trees_balanced,0,0.508036675116363,0,0.7915606866926607
+PR0021,JV010,Automotive Cells Company (ACC) expanded with Mercedes-Benz,Mercedes-Benz,extra_trees_balanced,0,0.052056782345059394,0,0.7915606866926607
+PR0752,JV310,Albany Safran Composites,Albany International,extra_trees_balanced,0,0.05817095009258485,0,0.7915606866926607
+PR0733,JV302,Toyota Kirloskar Auto Parts Limited,Toyota Motor Corporation,extra_trees_balanced,0,0.021214203252962603,0,0.7915606866926607
+PR0433,JV185,Oman LNG LLC,TotalEnergies,extra_trees_balanced,0,0.017939077180616724,0,0.7915606866926607
+PR0408,JV175,Rheinmetall BAE Systems Land (RBSL),Rheinmetall,extra_trees_balanced,0,0.18960394682523865,0,0.7915606866926607
+PR0066,JV031,Digital Realty-Blackstone Hyperscale Data Center JV,Digital Realty,extra_trees_balanced,0,0.7654167732449801,0,0.7915606866926607
+PR0542,JV229,ST-Ericsson,Ericsson,extra_trees_balanced,0,0.05061713954321925,0,0.7915606866926607
+PR0677,JV275,Azule Energy,bp,extra_trees_balanced,0,0.049604768197923574,0,0.7915606866926607
+PR0913,JV387,BarMar hydrogen pipeline JV,NaTran,extra_trees_balanced,0,0.029341686837346236,0,0.7915606866926607
+PR0498,JV209,Cellforce Group,Customcells,extra_trees_balanced,0,0.18239958117592778,0,0.7915606866926607
+PR1046,JV446,SuperX-Zhonhen Electric AI data center power JV,Zhonhen Electric,extra_trees_balanced,0,0.3332596937117176,0,0.7915606866926607
+PR0351,JV148,Virgin Media O2,Liberty Global,extra_trees_balanced,0,0.17274820222341655,0,0.7915606866926607
+PR0394,JV168,Flash Alliance Ltd. / Toshiba-SanDisk Fab 4 JV,SanDisk,extra_trees_balanced,0,0.411541102043032,0,0.7915606866926607
+PR0791,JV327,Electrolux-Midea North America Food Preservation Sales JV,Midea Group,extra_trees_balanced,0,0.1138933452958399,0,0.7915606866926607
+PR0567,JV235,Ichthys LNG,TotalEnergies,extra_trees_balanced,0,0.018963194793594276,0,0.7915606866926607
+PR0275,JV119,NEOM Green Hydrogen Company,Air Products,extra_trees_balanced,0,0.3260437012814598,0,0.7915606866926607
+PR0041,JV019,Sony Honda Mobility,Sony,extra_trees_balanced,0,0.0671547908380752,0,0.7915606866926607
+PR0082,JV038,Blue Owl-Chirisa-PowerHouse AI/HPC data center development partnership,Blue Owl Capital,extra_trees_balanced,1,0.4565283369093526,0,0.7915606866926607
+PR0754,JV311,A+E Global Media / A+E Networks,The Walt Disney Company,extra_trees_balanced,0,0.18794051715989402,0,0.7915606866926607
+PR0959,JV410,Ethias-Weerts logistics real estate JV,Ethias,extra_trees_balanced,1,0.4336704839500283,0,0.7915606866926607
+PR0035,JV016,SkyShowtime,Comcast,extra_trees_balanced,0,0.13746914145433717,0,0.7915606866926607
+PR0587,JV241,Borouge,Borealis,extra_trees_balanced,0,0.010621199374049095,0,0.7915606866926607
+PR0705,JV289,Naviris,Fincantieri,extra_trees_balanced,0,0.036165202521291476,0,0.7915606866926607
+PR0924,JV392,CitroTech-Hexion fire-protected wood products JV,Hexion,extra_trees_balanced,0,0.26755711194590903,0,0.7915606866926607
+PR0613,JV252,Cereal Partners Worldwide (CPW),Nestlé,extra_trees_balanced,0,0.004570270917257068,0,0.7915606866926607
+PR0530,JV223,BNP Paribas ABC Wealth Management,ABC Wealth Management,extra_trees_balanced,0,0.1803733044060911,0,0.7915606866926607
+PR0344,JV145,Everything Everywhere / EE,Deutsche Telekom / T-Mobile UK,extra_trees_balanced,0,0.11890505702586883,0,0.7915606866926607
+PR0895,JV378,FiberPass Telefónica-Vodafone Spain FTTH JV,Vodafone Spain,extra_trees_balanced,0,0.10665561812362055,0,0.7915606866926607
+PR0428,JV184,Dolphin Energy,Mubadala Energy,extra_trees_balanced,0,0.027192392027586287,0,0.7915606866926607
+PR0076,JV035,Flexis SAS,Volvo Group,extra_trees_balanced,0,0.17228964043867484,0,0.7915606866926607
+PR0690,JV281,ArcelorMittal Nippon Steel India (AM/NS India),Nippon Steel,extra_trees_balanced,0,0.07727153142685245,0,0.7915606866926607
+PR0135,JV062,VodafoneZiggo,Liberty Global,extra_trees_balanced,0,0.10662624117121405,0,0.7915606866926607
+PR0937,JV399,Arizore LLC / Bocana-Arizore mining JV,Bocana Resources,extra_trees_balanced,0,0.44321136939063166,0,0.7915606866926607
+PR0874,JV368,Americold-EQT North American cold storage JV,Americold Realty Trust,extra_trees_balanced,0,0.7644526468062858,0,0.7915606866926607
+PR0961,JV411,Frasers Prime Logistics Venture,Frasers Property Industrial,extra_trees_balanced,0,0.8009369552782377,1,0.7915606866926607
+PR0049,JV023,GM-Samsung SDI EV battery JV,General Motors,extra_trees_balanced,0,0.2243038516052147,0,0.7915606866926607
+PR0331,JV139,Tangguh LNG Project,CNOOC Muturi Ltd.,extra_trees_balanced,0,0.04099371500212075,0,0.7915606866926607
+PR0838,JV350,Allianz Jio Reinsurance Limited,Allianz Group,extra_trees_balanced,0,0.11914852145336564,0,0.7915606866926607
+PR0383,JV163,Tata Hitachi Construction Machinery,Hitachi Construction Machinery,extra_trees_balanced,0,0.022089234165808793,0,0.7915606866926607
+PR1056,JV451,RadNet-Saint Alphonsus Idaho imaging JV,Saint Alphonsus Health System,extra_trees_balanced,0,0.40399209837206324,0,0.7915606866926607
+PR0920,JV390,Aclara-CAP rare earth metals and alloys JV,CAP S.A.,extra_trees_balanced,0,0.43876450562287467,0,0.7915606866926607
+PR0506,JV212,J-QuAD Dynamics,JTEKT,extra_trees_balanced,0,0.05850287994475552,0,0.7915606866926607
+PR1034,JV441,AdaniConneX,Adani Enterprises / Adani Group,extra_trees_balanced,0,0.553587335403551,0,0.7915606866926607
+PR0642,JV263,BASF-YPC Company Limited,BASF,extra_trees_balanced,0,0.05236425274951857,0,0.7915606866926607
+PR0239,JV103,ATR,Airbus,extra_trees_balanced,0,0.002046996416837999,0,0.7915606866926607
+PR0514,JV216,Wyre,Telenet,extra_trees_balanced,0,0.4360095383191025,0,0.7915606866926607
+PR0555,JV232,Global Shipping Business Network (GSBN),PSA International,extra_trees_balanced,0,0.30035343855511787,0,0.7915606866926607
+PR0518,JV217,FiberCop,Fastweb,extra_trees_balanced,0,0.6635993274274826,0,0.7915606866926607
+PR0119,JV054,CFM International,Safran Aircraft Engines,extra_trees_balanced,0,0.00305515321026165,0,0.7915606866926607
+PR0852,JV357,Mahindra-Manulife life insurance JV,Manulife Financial Corporation,extra_trees_balanced,0,0.3558589718264605,0,0.7915606866926607
+PR1011,JV430,Greater Gabbard Offshore Wind Farm,RWE,extra_trees_balanced,0,0.14052182098893992,0,0.7915606866926607
+PR0548,JV232,Global Shipping Business Network (GSBN),CMA CGM,extra_trees_balanced,0,0.014152709821631037,0,0.7915606866926607
+PR0159,JV071,IONNA charging network JV,Hyundai,extra_trees_balanced,0,0.017429927166007556,0,0.7915606866926607
+PR0425,JV183,Tengizchevroil LLP,ExxonMobil,extra_trees_balanced,0,0.1350281457680308,0,0.7915606866926607
+PR0288,JV124,BASF-YPC Company Limited,Sinopec,extra_trees_balanced,0,0.039649544140434215,0,0.7915606866926607
+PR0349,JV147,Cornerstone Telecommunications Infrastructure,Vodafone UK / Vantage Towers,extra_trees_balanced,0,0.45927913842808643,0,0.7915606866926607
+PR0967,JV414,Texas Critical Data Centers LLC,New Era Energy & Digital,extra_trees_balanced,0,0.20361473219630027,0,0.7915606866926607
+PR0101,JV046,Iberdrola-Masdar East Anglia THREE offshore wind co-investment,Masdar,extra_trees_balanced,0,0.22087053068577836,0,0.7915606866926607
+PR0605,JV249,"Beijing Foton Daimler Automotive Co., Ltd. (BFDA)",Foton Motor,extra_trees_balanced,0,0.01685857191109251,0,0.7915606866926607
+PR0305,JV132,"AutoAlliance Thailand Co., Ltd. (AAT)",Ford Motor Company,extra_trees_balanced,0,0.0532722978575285,0,0.7915606866926607
+PR0306,JV132,"AutoAlliance Thailand Co., Ltd. (AAT)",Mazda Motor Corporation,extra_trees_balanced,0,0.0,0,0.7915606866926607
+PR0268,JV116,Samsung Bioepis,Samsung Biologics,extra_trees_balanced,0,0.013270219056163945,0,0.7915606866926607
+PR0069,JV032,Reliance-Disney India media JV / JioStar,Viacom18,extra_trees_balanced,0,0.11520263167492328,0,0.7915606866926607
+PR0535,JV226,NEC Lenovo Japan Group,Lenovo,extra_trees_balanced,0,0.0390601944903332,0,0.7915606866926607
+PR0422,JV182,Golden Pass LNG,QatarEnergy,extra_trees_balanced,0,0.060168065443625095,0,0.7915606866926607
+PR0499,JV210,MIRISE Technologies,DENSO,extra_trees_balanced,0,0.1423511931420717,0,0.7915606866926607
+PR0495,JV208,Amplify Cell Technologies,Daimler Truck,extra_trees_balanced,0,0.3750919791977807,0,0.7915606866926607
+PR0699,JV286,MHI Vestas Offshore Wind,Vestas Wind Systems,extra_trees_balanced,0,0.03480213818528259,0,0.7915606866926607
+PR0935,JV398,PLIVE / Prologis Logistics Investment Venture Europe,La Caisse,extra_trees_balanced,1,0.780735940590007,0,0.7915606866926607
+PR0650,JV265,EQUATE Petrochemical Company,Qurain Petrochemical Industries Company,extra_trees_balanced,0,0.015758962198409464,0,0.7915606866926607
+PR0519,JV218,OXG Glasfaser / Vodafone-Altice FibreCo,Vodafone,extra_trees_balanced,0,0.5016861101804134,0,0.7915606866926607
+PR0862,JV362,Volvo Financial Services-Eicher Motors India finance JV,Eicher Motors,extra_trees_balanced,0,0.1682351872764492,0,0.7915606866926607
+PR1007,JV429,Aduna Global network API JV,T-Mobile,extra_trees_balanced,0,0.11570796235199514,0,0.7915606866926607
+PR0938,JV399,Arizore LLC / Bocana-Arizore mining JV,Arizore Ltd.,extra_trees_balanced,0,0.28353482157351145,0,0.7915606866926607
+PR0250,JV107,Arcius Energy,bp,extra_trees_balanced,0,0.022338911927028963,0,0.7915606866926607
+PR0442,JV187,Compañía Minera Antamina S.A. / Antamina mine,BHP,extra_trees_balanced,0,0.025624386416353583,0,0.7915606866926607
+PR1067,JV457,IsoEnergy-Purepoint Uranium Athabasca JV,IsoEnergy,extra_trees_balanced,0,0.35127376088626955,0,0.7915606866926607
+PR0833,JV348,Critical Metals-TQB rare earth processing JV,Tariq Abdel Hadi Abdullah Al-Qahtani & Brothers Company (TQB),extra_trees_balanced,0,0.17660019961545537,0,0.7915606866926607
+PR0112,JV051,Ma'aden-Alcoa aluminum JV,Ma'aden,extra_trees_balanced,0,0.00409426214918205,0,0.7915606866926607
+PR0192,JV083,BYD Toyota EV Technology (BTET),Toyota,extra_trees_balanced,0,0.007521441727021135,0,0.7915606866926607
+PR0420,JV181,Joyn Bio,Bayer,extra_trees_balanced,0,0.07827240018057241,0,0.7915606866926607
+PR0738,JV304,Oyak Renault Otomobil Fabrikaları A.Ş.,Renault Group,extra_trees_balanced,0,0.004330307624902729,0,0.7915606866926607
+PR0781,JV322,Reliance BP Mobility / Jio-bp,bp,extra_trees_balanced,0,0.10742964505918794,0,0.7915606866926607
+PR0538,JV227,Fuji Xerox,Rank Xerox,extra_trees_balanced,0,0.03528637795819501,0,0.7915606866926607
+PR0036,JV016,SkyShowtime,ViacomCBS / Paramount,extra_trees_balanced,0,0.13746914145433717,0,0.7915606866926607
+PR0028,JV014,Milence / European heavy-duty charging JV,Daimler Truck,extra_trees_balanced,0,0.10113352488505602,0,0.7915606866926607
+PR0750,JV309,"Hitachi Astemo, Ltd.",Honda,extra_trees_balanced,0,0.05451413697142679,0,0.7915606866926607
+PR0623,JV257,Huawei-3Com / H3C,Huawei,extra_trees_balanced,0,0.056238761578516795,0,0.7915606866926607
+PR1022,JV435,Lumax Alps Alpine India,Alps Alpine,extra_trees_balanced,0,0.09724762900247838,0,0.7915606866926607
+PR0877,JV369,KONGSBERG-Thales defence communications JV,Thales,extra_trees_balanced,0,0.08370732465932784,0,0.7915606866926607
+PR0609,JV251,McDonald's China / Fast Food Holdings,CITIC,extra_trees_balanced,0,0.4782719469152037,0,0.7915606866926607
+PR0778,JV321,Foxtron Vehicle Technologies,Hon Hai Technology Group / Foxconn,extra_trees_balanced,0,0.08876169465592454,0,0.7915606866926607
+PR0279,JV121,Bugatti Rimac,Rimac Automobili / Rimac Group,extra_trees_balanced,0,0.012981003688785065,0,0.7915606866926607
+PR0905,JV383,AirJoule LLC / GE Vernova-Montana Technologies JV,Montana Technologies,extra_trees_balanced,0,0.3023885960314988,0,0.7915606866926607
+PR0995,JV428,PO-Rein hydrogen storage JV,OPmobility (Plastic Omnium),extra_trees_balanced,0,0.11123778355545509,0,0.7915606866926607
+PR1027,JV437,SB OAI Japan,SoftBank Corp.,extra_trees_balanced,0,0.0921214495311184,0,0.7915606866926607
+PR0682,JV278,S-LCD Corporation,Samsung Electronics,extra_trees_balanced,0,0.11949304180968352,0,0.7915606866926607
+PR0276,JV119,NEOM Green Hydrogen Company,NEOM,extra_trees_balanced,0,0.18783247599297495,0,0.7915606866926607
+PR0853,JV358,KBC Securities-Van Lanschot Kempen equities JV,KBC Securities,extra_trees_balanced,0,0.10270999806172805,0,0.7915606866926607
+PR0513,JV215,nexfibre,Liberty Global,extra_trees_balanced,0,0.7557660489226916,0,0.7915606866926607
+PR0225,JV097,GAC Honda,GAC Group,extra_trees_balanced,0,0.07787790899973088,0,0.7915606866926607
+PR0849,JV356,PT Mortar Prakarsa Utama / Saint-Gobain-Indocement mortar JV,PT Cipta Mortar Utama / Saint-Gobain,extra_trees_balanced,0,0.12170387734937851,0,0.7915606866926607
+PR0554,JV232,Global Shipping Business Network (GSBN),Port of Qingdao / SPG Qingdao Port,extra_trees_balanced,0,0.015554743963296203,0,0.7915606866926607
+PR0033,JV015,Japan Advanced Semiconductor Manufacturing (JASM),DENSO,extra_trees_balanced,0,0.05641326874565705,0,0.7915606866926607
+PR0278,JV120,Hyundai Motor Manufacturing Middle East / PIF-Hyundai JV,Hyundai Motor Company,extra_trees_balanced,0,0.05545626321513624,0,0.7915606866926607
+PR0501,JV211,BluE Nexus,AISIN,extra_trees_balanced,0,0.14314367692453137,0,0.7915606866926607
+PR1050,JV448,Tianjin Nangang Ethylene Project JV,SINOPEC,extra_trees_balanced,0,0.2610359576977179,0,0.7915606866926607
+PR0969,JV415,Bericap North America / BCNA,Amcor,extra_trees_balanced,0,0.10190397169087201,0,0.7915606866926607
+PR0446,JV188,Galore Creek Partnership,Newmont,extra_trees_balanced,0,0.48136580581739896,0,0.7915606866926607
+PR0771,JV319,HysetCo,Air Liquide,extra_trees_balanced,0,0.018511226297082396,0,0.7915606866926607
+PR0664,JV271,EuroJet Turbo GmbH,ITP Aero,extra_trees_balanced,0,0.005262498242292209,0,0.7915606866926607
+PR0960,JV410,Ethias-Weerts logistics real estate JV,Weerts Group,extra_trees_balanced,0,0.4336704839500283,0,0.7915606866926607
+PR0743,JV306,Punch Powertrain PSA e-transmissions,Punch Powertrain,extra_trees_balanced,0,0.016242608769655314,0,0.7915606866926607
+PR0516,JV217,FiberCop,TIM,extra_trees_balanced,0,0.6635993274274826,0,0.7915606866926607
+PR0223,JV096,"Beijing Benz Automotive Co., Ltd. (BBAC)",Mercedes-Benz,extra_trees_balanced,0,0.015058090920393594,0,0.7915606866926607
+PR0927,JV394,CRML-FPCU Romania rare earth processing JV,Critical Metals Corp.,extra_trees_balanced,0,0.07076422564979236,0,0.7915606866926607
+PR0940,JV400,Looper Textile Co. / H&M-Remondis JV,Remondis,extra_trees_balanced,0,0.17595592777203437,0,0.7915606866926607
+PR0309,JV134,GE Honda Aero Engines LLC,General Electric,extra_trees_balanced,0,0.14471082422437387,0,0.7915606866926607
+PR0551,JV232,Global Shipping Business Network (GSBN),Hapag-Lloyd,extra_trees_balanced,0,0.03786221031204414,0,0.7915606866926607
+PR0067,JV031,Digital Realty-Blackstone Hyperscale Data Center JV,Blackstone funds,extra_trees_balanced,1,0.7904977324401369,0,0.7915606866926607
+PR0808,JV336,Rheinmetall ICEYE Space Solutions GmbH,Rheinmetall,extra_trees_balanced,0,0.12282556275990213,0,0.7915606866926607
+PR0873,JV367,Questerre-Nice Capital PX Energy JV,Nice Capital Holdings,extra_trees_balanced,0,0.17398577344193328,0,0.7915606866926607
+PR0186,JV081,Airbus C Series / A220 partnership,Airbus,extra_trees_balanced,0,0.03652762194767539,0,0.7915606866926607
+PR0728,JV299,"Changan PSA Automobile Co., Ltd. (CAPSA)",PSA Peugeot Citroën,extra_trees_balanced,0,0.030065301494843332,0,0.7915606866926607
+PR0571,JV235,Ichthys LNG,JERA / Chubu-related stake,extra_trees_balanced,0,0.0094251267131908,0,0.7915606866926607
+PR0819,JV341,IsoEnergy-Purepoint Athabasca Basin uranium JV,Purepoint Uranium,extra_trees_balanced,0,0.26493690813486154,0,0.7915606866926607
+PR0415,JV178,Tata Lockheed Martin Aerostructures Limited (TLMAL),Tata Advanced Systems,extra_trees_balanced,0,0.024277436990721542,0,0.7915606866926607
+PR0556,JV232,Global Shipping Business Network (GSBN),Shanghai International Port Group (SIPG),extra_trees_balanced,0,0.015554743963296203,0,0.7915606866926607
+PR0207,JV089,Bluevia,Vauban Infrastructure Partners,extra_trees_balanced,1,0.9243304497165674,1,0.7915606866926607
+PR0303,JV131,AutoAlliance International,Ford Motor Company,extra_trees_balanced,0,0.08048716998909063,0,0.7915606866926607
+PR1015,JV432,IHI-Orion Corinthia Hotel Lisbon JV,Orion European Real Estate Fund VI,extra_trees_balanced,1,0.12158691447301154,0,0.7915606866926607
+PR0324,JV138,Mozambique LNG / Area 1 Project,ENH Rovuma Área Um,extra_trees_balanced,0,0.03740956473800637,0,0.7915606866926607
+PR0005,JV003,Ultium Cells LLC,General Motors,extra_trees_balanced,0,0.22818482525288308,0,0.7915606866926607
+PR1024,JV436,International Senior Loan Program (BCSF-Pantheon),Pantheon,hist_gradient_boosting_balanced,1,0.000252267323359217,0,0.9398575004914579
+PR0381,JV162,Dow Corning Corporation,Dow Chemical,hist_gradient_boosting_balanced,0,3.341178732410934e-05,0,0.9398575004914579
+PR0500,JV210,MIRISE Technologies,Toyota,hist_gradient_boosting_balanced,0,0.00021471705378911236,0,0.9398575004914579
+PR0735,JV302,Toyota Kirloskar Auto Parts Limited,Kirloskar Systems Limited,hist_gradient_boosting_balanced,0,0.0004124722426559448,0,0.9398575004914579
+PR0550,JV232,Global Shipping Business Network (GSBN),COSCO SHIPPING Ports,hist_gradient_boosting_balanced,0,4.900292216246048e-05,0,0.9398575004914579
+PR0473,JV199,Ericsson-LG Enterprise / Ericsson-LG,LG Electronics,hist_gradient_boosting_balanced,0,0.0006350966320788038,0,0.9398575004914579
+PR0616,JV253,Froneri,R&R Ice Cream / PAI Partners,hist_gradient_boosting_balanced,0,0.00018946735724923065,0,0.9398575004914579
+PR0657,JV269,Galderma,Nestlé,hist_gradient_boosting_balanced,0,2.5063568564574636e-05,0,0.9398575004914579
+PR0696,JV284,Leapmotor International,Leapmotor,hist_gradient_boosting_balanced,0,0.00030341475214467863,0,0.9398575004914579
+PR0116,JV053,United Launch Alliance (ULA),Boeing,hist_gradient_boosting_balanced,0,3.941079413269836e-05,0,0.9398575004914579
+PR0109,JV049,Meta-Blue Owl Hyperion Data Center JV,Blue Owl Capital funds,hist_gradient_boosting_balanced,1,0.9954246610467299,1,0.9398575004914579
+PR0183,JV079,BritBox US,ITV SVOD Holding,hist_gradient_boosting_balanced,0,2.4346491165526345e-05,0,0.9398575004914579
+PR0258,JV111,Lithium Nevada / Thacker Pass JV,Lithium Americas,hist_gradient_boosting_balanced,0,0.13017627970638,0,0.9398575004914579
+PR0614,JV252,Cereal Partners Worldwide (CPW),General Mills,hist_gradient_boosting_balanced,0,0.00011916180246263275,0,0.9398575004914579
+PR0904,JV383,AirJoule LLC / GE Vernova-Montana Technologies JV,GE Vernova,hist_gradient_boosting_balanced,0,0.0005059360135158397,0,0.9398575004914579
+PR0795,JV329,Electrolux-Midea Anderson Fabric Care Manufacturing JV,Midea Group,hist_gradient_boosting_balanced,0,1.8821505093753272e-05,0,0.9398575004914579
+PR0126,JV057,Onduo,Verily Life Sciences,hist_gradient_boosting_balanced,0,7.173548143041413e-05,0,0.9398575004914579
+PR0824,JV344,Adani-Kowa green hydrogen marketing JV,Adani Global,hist_gradient_boosting_balanced,0,8.89761632966526e-05,0,0.9398575004914579
+PR1004,JV429,Aduna Global network API JV,Singtel,hist_gradient_boosting_balanced,0,3.102684932009866e-05,0,0.9398575004914579
+PR0624,JV257,Huawei-3Com / H3C,3Com,hist_gradient_boosting_balanced,0,0.0008431098715303535,0,0.9398575004914579
+PR0267,JV115,Ørsted-Eversource South Fork/Revolution Wind partnership,Eversource,hist_gradient_boosting_balanced,0,0.00018314809616330657,0,0.9398575004914579
+PR0087,JV040,Castellón Green Hydrogen S.L. / bp-Iberdrola JV,bp,hist_gradient_boosting_balanced,0,0.000344121254121501,0,0.9398575004914579
+PR0894,JV378,FiberPass Telefónica-Vodafone Spain FTTH JV,Telefónica España,hist_gradient_boosting_balanced,0,0.0006412297533129727,0,0.9398575004914579
+PR0951,JV406,CARIZON,CARIAD (Volkswagen Group),hist_gradient_boosting_balanced,0,3.222049428368077e-05,0,0.9398575004914579
+PR0205,JV088,FiBrasil,CDPQ,hist_gradient_boosting_balanced,1,0.7588181609458083,0,0.9398575004914579
+PR0155,JV070,Ewiva,Volkswagen Group,hist_gradient_boosting_balanced,0,1.0058019413941308e-05,0,0.9398575004914579
+PR0828,JV346,DowAksa Advanced Composites Holdings BV,Dow,hist_gradient_boosting_balanced,0,0.0003590193907746649,0,0.9398575004914579
+PR0827,JV345,BluMountain-NET biochar JV,Neutralizing Environmental Trash Inc. (NET),hist_gradient_boosting_balanced,0,0.0006025820682143379,0,0.9398575004914579
+PR0120,JV055,Airbus Safran Launchers / ArianeGroup,Airbus,hist_gradient_boosting_balanced,0,0.004683976508202858,0,0.9398575004914579
+PR0662,JV271,EuroJet Turbo GmbH,Rolls-Royce,hist_gradient_boosting_balanced,0,8.234894203591989e-06,0,0.9398575004914579
+PR0777,JV320,Blue Point low-carbon ammonia JV,Mitsui,hist_gradient_boosting_balanced,0,0.004396800919609493,0,0.9398575004914579
+PR0479,JV202,"Changan Mazda Automobile Co., Ltd.",Mazda Motor Corporation,hist_gradient_boosting_balanced,0,1.7630787098543856e-05,0,0.9398575004914579
+PR0926,JV393,Aetherium Medical-GloMed biologics commercialization JV,GloMed Solutions,hist_gradient_boosting_balanced,0,0.0015505076610040536,0,0.9398575004914579
+PR0221,JV095,BMW Brilliance Automotive (BBA),BMW Group,hist_gradient_boosting_balanced,0,0.0001682261310090722,0,0.9398575004914579
+PR0723,JV297,"eGT New Energy Automotive Co., Ltd.",Renault,hist_gradient_boosting_balanced,0,0.0003135059505648785,0,0.9398575004914579
+PR0149,JV068,Equinix-GIC-CPP U.S. xScale expansion JV,Equinix,hist_gradient_boosting_balanced,0,0.7059210466498415,0,0.9398575004914579
+PR0899,JV380,Eni-PETRONAS Malaysia-Indonesia upstream JV company,PETRONAS,hist_gradient_boosting_balanced,0,0.0021980621654307158,0,0.9398575004914579
+PR0146,JV066,Equinix-GIC xScale Europe JV,GIC,hist_gradient_boosting_balanced,1,0.4415972051503857,0,0.9398575004914579
+PR0776,JV320,Blue Point low-carbon ammonia JV,JERA,hist_gradient_boosting_balanced,0,0.0006869084375719747,0,0.9398575004914579
+PR0880,JV371,RIX Business Partners / Mitsubishi Chemical-Accenture JV,Mitsubishi Chemical,hist_gradient_boosting_balanced,0,0.005864882145820134,0,0.9398575004914579
+PR0366,JV155,Nomura Orient International Securities,Nomura Holdings,hist_gradient_boosting_balanced,0,0.00010534943138995715,0,0.9398575004914579
+PR0669,JV273,Panavia Aircraft GmbH,Airbus Defence and Space,hist_gradient_boosting_balanced,0,2.379178510645865e-05,0,0.9398575004914579
+PR0761,JV315,NewRange Copper Nickel LLC,PolyMet Mining,hist_gradient_boosting_balanced,0,2.0489987825814538e-05,0,0.9398575004914579
+PR0693,JV283,Tata Lockheed Martin Aerostructures Limited,Tata Advanced Systems,hist_gradient_boosting_balanced,0,0.00010141345018278889,0,0.9398575004914579
+PR1057,JV452,Coliwoo-Macritchie REHAU Building JV,Coliwoo Holdings,hist_gradient_boosting_balanced,0,0.1050469435721449,0,0.9398575004914579
+PR0801,JV332,NewCo Collagen / Darling-Tessenderlo collagen JV,Tessenderlo Group,hist_gradient_boosting_balanced,0,7.352364175434629e-05,0,0.9398575004914579
+PR0092,JV042,JERA Nex bp,bp,hist_gradient_boosting_balanced,0,1.830320855300397e-05,0,0.9398575004914579
+PR0409,JV175,Rheinmetall BAE Systems Land (RBSL),BAE Systems,hist_gradient_boosting_balanced,0,1.7501491062954274e-05,0,0.9398575004914579
+PR0610,JV251,McDonald's China / Fast Food Holdings,CITIC Capital,hist_gradient_boosting_balanced,0,0.00396853747084564,0,0.9398575004914579
+PR0595,JV245,"ADVICS Co., Ltd.",Aisin Seiki,hist_gradient_boosting_balanced,0,6.010711481932773e-05,0,0.9398575004914579
+PR0797,JV330,Atlas Copco-Shareway Environmental Technology JV,Shanghai Shareway Environmental Technology minority shareholders,hist_gradient_boosting_balanced,0,4.166538019369724e-05,0,0.9398575004914579
+PR0287,JV124,BASF-YPC Company Limited,BASF,hist_gradient_boosting_balanced,0,0.00016942789725887258,0,0.9398575004914579
+PR0240,JV103,ATR,Leonardo,hist_gradient_boosting_balanced,0,6.000002983739043e-05,0,0.9398575004914579
+PR0014,JV007,GXS Bank / Grab-Singtel digital bank consortium,Singtel,hist_gradient_boosting_balanced,0,0.0022014900614296274,0,0.9398575004914579
+PR0883,JV372,Ma’aden-Ivanhoe Electric Saudi exploration JV,Ivanhoe Electric,hist_gradient_boosting_balanced,0,0.0002801080933101689,0,0.9398575004914579
+PR0113,JV051,Ma'aden-Alcoa aluminum JV,Alcoa,hist_gradient_boosting_balanced,0,0.00018070856857877439,0,0.9398575004914579
+PR0785,JV324,Johnson Controls-Saft Advanced Power Solutions,Saft,hist_gradient_boosting_balanced,0,0.00014330323540486079,0,0.9398575004914579
+PR0412,JV177,Tata Boeing Aerospace Limited (TBAL),Boeing,hist_gradient_boosting_balanced,0,0.002665983695558102,0,0.9398575004914579
+PR0234,JV101,"Dongfeng Motor Co., Ltd. / Dongfeng Nissan",Dongfeng Motor Group,hist_gradient_boosting_balanced,0,2.9787806559980667e-05,0,0.9398575004914579
+PR0589,JV242,DP World-CDPQ Global Ports Investment Platform,CDPQ,hist_gradient_boosting_balanced,1,0.00789911248207881,0,0.9398575004914579
+PR0726,JV298,Dongfeng Renault Automotive Company,Renault,hist_gradient_boosting_balanced,0,2.6657367169301025e-05,0,0.9398575004914579
+PR1071,JV459,A Holdings / LINE-Z Holdings integration JV,NAVER,hist_gradient_boosting_balanced,0,0.0001315388948197178,0,0.9398575004914579
+PR0402,JV172,Airbus OneWeb Satellites LLC,Airbus,hist_gradient_boosting_balanced,0,1.983397139302396e-05,0,0.9398575004914579
+PR0537,JV227,Fuji Xerox,Fuji Photo Film / Fujifilm,hist_gradient_boosting_balanced,0,6.48443669592561e-05,0,0.9398575004914579
+PR0822,JV343,LBA Systems / Baykar-Leonardo unmanned systems JV,Baykar,hist_gradient_boosting_balanced,0,0.005868847673097663,0,0.9398575004914579
+PR0108,JV049,Meta-Blue Owl Hyperion Data Center JV,Meta Platforms,hist_gradient_boosting_balanced,0,0.09244525411435982,0,0.9398575004914579
+PR0015,JV008,LG Magna e-Powertrain,LG Electronics,hist_gradient_boosting_balanced,0,4.1119162318907336e-05,0,0.9398575004914579
+PR0002,JV001,MONET Technologies,SoftBank,hist_gradient_boosting_balanced,0,0.00018184280611334183,0,0.9398575004914579
+PR1055,JV451,RadNet-Saint Alphonsus Idaho imaging JV,RadNet,hist_gradient_boosting_balanced,0,0.04701197933027656,0,0.9398575004914579
+PR0627,JV259,Samsung Corning Precision Materials,Corning,hist_gradient_boosting_balanced,0,0.00021563924376231632,0,0.9398575004914579
+PR0945,JV403,Heidelberg Materials UK-Turners bulk cement haulage JV,Heidelberg Materials UK,hist_gradient_boosting_balanced,0,0.032778908055761724,0,0.9398575004914579
+PR0602,JV247,SAIC-GM,General Motors,hist_gradient_boosting_balanced,0,0.00030567661187099236,0,0.9398575004914579
+PR0869,JV366,Restora Neurosciences / PharmAla-Aluvaris-Diteba SPV,PharmAla Biotech,hist_gradient_boosting_balanced,0,0.01041904379432445,0,0.9398575004914579
+PR0697,JV285,"JERA Co., Inc.",TEPCO Fuel & Power,hist_gradient_boosting_balanced,0,3.87919433369299e-05,0,0.9398575004914579
+PR0353,JV149,BuyIn,Deutsche Telekom,hist_gradient_boosting_balanced,0,0.0019947996021341986,0,0.9398575004914579
+PR0421,JV181,Joyn Bio,Ginkgo Bioworks,hist_gradient_boosting_balanced,0,5.292150516780015e-05,0,0.9398575004914579
+PR0251,JV107,Arcius Energy,XRG / ADNOC,hist_gradient_boosting_balanced,0,0.0002189644823290401,0,0.9398575004914579
+PR0831,JV347,HexiTech LLC / CitroTech-Hexion fire-protected wood JV,Hexion,hist_gradient_boosting_balanced,0,0.07122420310088608,0,0.9398575004914579
+PR0464,JV196,Ardent Mills,ConAgra Foods,hist_gradient_boosting_balanced,0,0.00028816707830817324,0,0.9398575004914579
+PR0604,JV248,Dongfeng Peugeot Citroën Automobile (DPCA),PSA Peugeot Citroën / Stellantis,hist_gradient_boosting_balanced,0,3.2356510608608766e-05,0,0.9398575004914579
+PR0779,JV321,Foxtron Vehicle Technologies,Yulon Motor Group,hist_gradient_boosting_balanced,0,0.00013332120078295785,0,0.9398575004914579
+PR0423,JV182,Golden Pass LNG,ExxonMobil,hist_gradient_boosting_balanced,0,0.00010077632853600644,0,0.9398575004914579
+PR0094,JV043,Stellantis-CATL Spain LFP Battery JV,CATL,hist_gradient_boosting_balanced,0,1.7672013423199848e-05,0,0.9398575004914579
+PR0825,JV344,Adani-Kowa green hydrogen marketing JV,Kowa Holdings Asia,hist_gradient_boosting_balanced,0,8.89761632966526e-05,0,0.9398575004914579
+PR0840,JV351,Jio Financial Services-Allianz primary insurance JV,Allianz Group,hist_gradient_boosting_balanced,0,0.0004865935213674947,0,0.9398575004914579
+PR0714,JV293,SIRO,Vodafone Ireland,hist_gradient_boosting_balanced,0,5.799619843020865e-05,0,0.9398575004914579
+PR0454,JV191,Indus Towers Limited,Idea Group,hist_gradient_boosting_balanced,0,0.012901434210921816,0,0.9398575004914579
+PR0449,JV189,Veladero Mine 50/50 JV,Shandong Gold,hist_gradient_boosting_balanced,0,0.0010759042471498543,0,0.9398575004914579
+PR0318,JV137,Cameron LNG,Sempra Energy,hist_gradient_boosting_balanced,0,0.0009556409554096041,0,0.9398575004914579
+PR0235,JV101,"Dongfeng Motor Co., Ltd. / Dongfeng Nissan",Nissan Motor,hist_gradient_boosting_balanced,0,3.5157014369624525e-05,0,0.9398575004914579
+PR0800,JV332,NewCo Collagen / Darling-Tessenderlo collagen JV,Darling Ingredients,hist_gradient_boosting_balanced,0,0.10344890344371016,0,0.9398575004914579
+PR0753,JV311,A+E Global Media / A+E Networks,Hearst Communications,hist_gradient_boosting_balanced,0,2.236454973030619e-05,0,0.9398575004914579
+PR0062,JV029,Leapmotor International,Stellantis,hist_gradient_boosting_balanced,0,8.620610662629035e-05,0,0.9398575004914579
+PR0698,JV285,"JERA Co., Inc.",Chubu Electric Power,hist_gradient_boosting_balanced,0,3.87919433369299e-05,0,0.9398575004914579
+PR0294,JV127,"SAIC-GM-Wuling Automobile Co., Ltd. (SGMW)",GM China,hist_gradient_boosting_balanced,0,1.941525599002768e-05,0,0.9398575004914579
+PR0615,JV253,Froneri,Nestlé,hist_gradient_boosting_balanced,0,0.001219060252320645,0,0.9398575004914579
+PR0902,JV382,Bosch-BASF Digital Farming JV,Bosch,hist_gradient_boosting_balanced,0,0.01769838353282859,0,0.9398575004914579
+PR0414,JV178,Tata Lockheed Martin Aerostructures Limited (TLMAL),Lockheed Martin,hist_gradient_boosting_balanced,0,0.0062625974452631804,0,0.9398575004914579
+PR0742,JV305,Nidec PSA eMotors,Nidec Leroy-Somer,hist_gradient_boosting_balanced,0,2.5707689582731855e-05,0,0.9398575004914579
+PR0312,JV135,Engine Alliance LLC,Pratt & Whitney,hist_gradient_boosting_balanced,0,2.0739577890936943e-05,0,0.9398575004914579
+PR0437,JV185,Oman LNG LLC,PTTEP Oman E&P Corporation,hist_gradient_boosting_balanced,0,0.0012194716560490594,0,0.9398575004914579
+PR0901,JV381,Navigator Amon Shipping AS,Amon Maritime,hist_gradient_boosting_balanced,0,0.0024101926666569747,0,0.9398575004914579
+PR0198,JV085,European Semiconductor Manufacturing Company (ESMC),Infineon,hist_gradient_boosting_balanced,0,0.0007496571465712564,0,0.9398575004914579
+PR0494,JV208,Amplify Cell Technologies,Accelera by Cummins,hist_gradient_boosting_balanced,0,0.001250718260843203,0,0.9398575004914579
+PR0375,JV159,Nokia Siemens Networks,Nokia,hist_gradient_boosting_balanced,0,2.5100022700791215e-05,0,0.9398575004914579
+PR0544,JV230,Freudenberg-NOK General Partnership,NOK,hist_gradient_boosting_balanced,0,0.00015910652676362724,0,0.9398575004914579
+PR0022,JV011,BlueOval SK,Ford,hist_gradient_boosting_balanced,0,0.0008686982016532927,0,0.9398575004914579
+PR0865,JV364,Telenor Connexion / Telenor-Verdane IoT JV,Telenor,hist_gradient_boosting_balanced,0,0.0025419851122030013,0,0.9398575004914579
+PR0612,JV251,McDonald's China / Fast Food Holdings,McDonald's,hist_gradient_boosting_balanced,0,0.6298032275149738,0,0.9398575004914579
+PR0427,JV183,Tengizchevroil LLP,Lukoil,hist_gradient_boosting_balanced,0,0.007070797994449888,0,0.9398575004914579
+PR0145,JV066,Equinix-GIC xScale Europe JV,Equinix,hist_gradient_boosting_balanced,0,0.018989446806557744,0,0.9398575004914579
+PR0837,JV350,Allianz Jio Reinsurance Limited,Jio Financial Services,hist_gradient_boosting_balanced,0,0.0005814144839236295,0,0.9398575004914579
+PR0055,JV025,Hyundai Motor Group-LG Energy Solution Georgia battery JV,LG Energy Solution,hist_gradient_boosting_balanced,0,2.2924174731562196e-05,0,0.9398575004914579
+PR0210,JV090,Fiberklaar,EQT Infrastructure,hist_gradient_boosting_balanced,1,0.013009871280253858,0,0.9398575004914579
+PR0265,JV114,bp-Equinor US offshore wind partnership,Equinor,hist_gradient_boosting_balanced,0,0.0005703552791887308,0,0.9398575004914579
+PR0248,JV106,Airbus-Leonardo-Thales Space JV / Project Bromo,Leonardo,hist_gradient_boosting_balanced,0,0.0009269707865055634,0,0.9398575004914579
+PR1032,JV440,GreenIT,Eni,hist_gradient_boosting_balanced,0,0.2386054133857981,0,0.9398575004914579
+PR0915,JV388,BPCE-Generali global asset management JV,BPCE / Natixis Investment Managers,hist_gradient_boosting_balanced,0,0.0014112859635903245,0,0.9398575004914579
+PR0182,JV079,BritBox US,BBC Worldwide Americas,hist_gradient_boosting_balanced,0,2.4346491165526345e-05,0,0.9398575004914579
+PR0751,JV310,Albany Safran Composites,Safran Aircraft Engines,hist_gradient_boosting_balanced,0,2.5521692082842477e-05,0,0.9398575004914579
+PR0178,JV078,Hulu,NBC Universal,hist_gradient_boosting_balanced,0,0.02395987092434859,0,0.9398575004914579
+PR1062,JV454,Saudi Aramco Mobil Refinery Company (SAMREF),Mobil Yanbu Refining Company,hist_gradient_boosting_balanced,0,0.00021754389943841955,0,0.9398575004914579
+PR0712,JV292,ARO Drilling,Saudi Aramco,hist_gradient_boosting_balanced,0,1.8531687202868733e-05,0,0.9398575004914579
+PR0903,JV382,Bosch-BASF Digital Farming JV,BASF Digital Farming,hist_gradient_boosting_balanced,0,0.01769838353282859,0,0.9398575004914579
+PR0373,JV158,Sony Ericsson Mobile Communications,Sony,hist_gradient_boosting_balanced,0,6.909017973648656e-05,0,0.9398575004914579
+PR0674,JV274,Europrop International,Rolls-Royce,hist_gradient_boosting_balanced,0,1.9541912690175655e-05,0,0.9398575004914579
+PR0379,JV161,LG.Philips LCD,LG Electronics / LG LCD,hist_gradient_boosting_balanced,0,0.00016795132794796268,0,0.9398575004914579
+PR0942,JV401,Verene Energia / La Caisse-GEB Brazil transmission platform,Grupo Energía Bogotá,hist_gradient_boosting_balanced,0,0.04813292545101813,0,0.9398575004914579
+PR0021,JV010,Automotive Cells Company (ACC) expanded with Mercedes-Benz,Mercedes-Benz,hist_gradient_boosting_balanced,0,9.180640786717499e-05,0,0.9398575004914579
+PR0752,JV310,Albany Safran Composites,Albany International,hist_gradient_boosting_balanced,0,2.47672703000803e-05,0,0.9398575004914579
+PR0733,JV302,Toyota Kirloskar Auto Parts Limited,Toyota Motor Corporation,hist_gradient_boosting_balanced,0,0.00049490308858092,0,0.9398575004914579
+PR0433,JV185,Oman LNG LLC,TotalEnergies,hist_gradient_boosting_balanced,0,0.0016997823002832088,0,0.9398575004914579
+PR0408,JV175,Rheinmetall BAE Systems Land (RBSL),Rheinmetall,hist_gradient_boosting_balanced,0,0.0005505871277021292,0,0.9398575004914579
+PR0066,JV031,Digital Realty-Blackstone Hyperscale Data Center JV,Digital Realty,hist_gradient_boosting_balanced,0,0.02093627919045381,0,0.9398575004914579
+PR0542,JV229,ST-Ericsson,Ericsson,hist_gradient_boosting_balanced,0,0.00042300781382932645,0,0.9398575004914579
+PR0677,JV275,Azule Energy,bp,hist_gradient_boosting_balanced,0,2.6401242713239833e-05,0,0.9398575004914579
+PR0913,JV387,BarMar hydrogen pipeline JV,NaTran,hist_gradient_boosting_balanced,0,0.00012386769372398155,0,0.9398575004914579
+PR0498,JV209,Cellforce Group,Customcells,hist_gradient_boosting_balanced,0,0.0009576347136587728,0,0.9398575004914579
+PR1046,JV446,SuperX-Zhonhen Electric AI data center power JV,Zhonhen Electric,hist_gradient_boosting_balanced,0,0.06354083320163875,0,0.9398575004914579
+PR0351,JV148,Virgin Media O2,Liberty Global,hist_gradient_boosting_balanced,0,0.001864025915678562,0,0.9398575004914579
+PR0394,JV168,Flash Alliance Ltd. / Toshiba-SanDisk Fab 4 JV,SanDisk,hist_gradient_boosting_balanced,0,7.885700413494951e-05,0,0.9398575004914579
+PR0791,JV327,Electrolux-Midea North America Food Preservation Sales JV,Midea Group,hist_gradient_boosting_balanced,0,0.0011639142503315585,0,0.9398575004914579
+PR0567,JV235,Ichthys LNG,TotalEnergies,hist_gradient_boosting_balanced,0,0.0002281665232220797,0,0.9398575004914579
+PR0275,JV119,NEOM Green Hydrogen Company,Air Products,hist_gradient_boosting_balanced,0,0.00038706606433583547,0,0.9398575004914579
+PR0041,JV019,Sony Honda Mobility,Sony,hist_gradient_boosting_balanced,0,0.0002700504571693856,0,0.9398575004914579
+PR0082,JV038,Blue Owl-Chirisa-PowerHouse AI/HPC data center development partnership,Blue Owl Capital,hist_gradient_boosting_balanced,1,0.05256053153539535,0,0.9398575004914579
+PR0754,JV311,A+E Global Media / A+E Networks,The Walt Disney Company,hist_gradient_boosting_balanced,0,2.236454973030619e-05,0,0.9398575004914579
+PR0959,JV410,Ethias-Weerts logistics real estate JV,Ethias,hist_gradient_boosting_balanced,1,0.023501432671450863,0,0.9398575004914579
+PR0035,JV016,SkyShowtime,Comcast,hist_gradient_boosting_balanced,0,0.0003602360217281797,0,0.9398575004914579
+PR0587,JV241,Borouge,Borealis,hist_gradient_boosting_balanced,0,2.2916522055684993e-05,0,0.9398575004914579
+PR0705,JV289,Naviris,Fincantieri,hist_gradient_boosting_balanced,0,0.0003631634806606973,0,0.9398575004914579
+PR0924,JV392,CitroTech-Hexion fire-protected wood products JV,Hexion,hist_gradient_boosting_balanced,0,0.04053410271272535,0,0.9398575004914579
+PR0613,JV252,Cereal Partners Worldwide (CPW),Nestlé,hist_gradient_boosting_balanced,0,1.5253887288676878e-05,0,0.9398575004914579
+PR0530,JV223,BNP Paribas ABC Wealth Management,ABC Wealth Management,hist_gradient_boosting_balanced,0,0.0012027658298716987,0,0.9398575004914579
+PR0344,JV145,Everything Everywhere / EE,Deutsche Telekom / T-Mobile UK,hist_gradient_boosting_balanced,0,5.696139601711176e-05,0,0.9398575004914579
+PR0895,JV378,FiberPass Telefónica-Vodafone Spain FTTH JV,Vodafone Spain,hist_gradient_boosting_balanced,0,0.019316267482779367,0,0.9398575004914579
+PR0428,JV184,Dolphin Energy,Mubadala Energy,hist_gradient_boosting_balanced,0,2.5715806250138518e-05,0,0.9398575004914579
+PR0076,JV035,Flexis SAS,Volvo Group,hist_gradient_boosting_balanced,0,0.0014201418398894607,0,0.9398575004914579
+PR0690,JV281,ArcelorMittal Nippon Steel India (AM/NS India),Nippon Steel,hist_gradient_boosting_balanced,0,0.00016402090019480581,0,0.9398575004914579
+PR0135,JV062,VodafoneZiggo,Liberty Global,hist_gradient_boosting_balanced,0,1.1098340765993796e-05,0,0.9398575004914579
+PR0937,JV399,Arizore LLC / Bocana-Arizore mining JV,Bocana Resources,hist_gradient_boosting_balanced,0,0.0293476752858848,0,0.9398575004914579
+PR0874,JV368,Americold-EQT North American cold storage JV,Americold Realty Trust,hist_gradient_boosting_balanced,0,0.06611245617132051,0,0.9398575004914579
+PR0961,JV411,Frasers Prime Logistics Venture,Frasers Property Industrial,hist_gradient_boosting_balanced,0,0.9958224185701395,1,0.9398575004914579
+PR0049,JV023,GM-Samsung SDI EV battery JV,General Motors,hist_gradient_boosting_balanced,0,0.00039090134094634064,0,0.9398575004914579
+PR0331,JV139,Tangguh LNG Project,CNOOC Muturi Ltd.,hist_gradient_boosting_balanced,0,6.908061981675257e-05,0,0.9398575004914579
+PR0838,JV350,Allianz Jio Reinsurance Limited,Allianz Group,hist_gradient_boosting_balanced,0,0.0002985867372914228,0,0.9398575004914579
+PR0383,JV163,Tata Hitachi Construction Machinery,Hitachi Construction Machinery,hist_gradient_boosting_balanced,0,0.00010793090258240353,0,0.9398575004914579
+PR1056,JV451,RadNet-Saint Alphonsus Idaho imaging JV,Saint Alphonsus Health System,hist_gradient_boosting_balanced,0,0.04701197933027656,0,0.9398575004914579
+PR0920,JV390,Aclara-CAP rare earth metals and alloys JV,CAP S.A.,hist_gradient_boosting_balanced,0,0.00018937862221041034,0,0.9398575004914579
+PR0506,JV212,J-QuAD Dynamics,JTEKT,hist_gradient_boosting_balanced,0,0.0023543780036257974,0,0.9398575004914579
+PR1034,JV441,AdaniConneX,Adani Enterprises / Adani Group,hist_gradient_boosting_balanced,0,0.3051090401583499,0,0.9398575004914579
+PR0642,JV263,BASF-YPC Company Limited,BASF,hist_gradient_boosting_balanced,0,0.00012590892689065813,0,0.9398575004914579
+PR0239,JV103,ATR,Airbus,hist_gradient_boosting_balanced,0,1.5253887288676878e-05,0,0.9398575004914579
+PR0514,JV216,Wyre,Telenet,hist_gradient_boosting_balanced,0,0.08762027839848763,0,0.9398575004914579
+PR0555,JV232,Global Shipping Business Network (GSBN),PSA International,hist_gradient_boosting_balanced,0,0.00010387895978640623,0,0.9398575004914579
+PR0518,JV217,FiberCop,Fastweb,hist_gradient_boosting_balanced,0,0.9785585468347539,1,0.9398575004914579
+PR0119,JV054,CFM International,Safran Aircraft Engines,hist_gradient_boosting_balanced,0,3.055234800602822e-05,0,0.9398575004914579
+PR0852,JV357,Mahindra-Manulife life insurance JV,Manulife Financial Corporation,hist_gradient_boosting_balanced,0,0.08375654906158796,0,0.9398575004914579
+PR1011,JV430,Greater Gabbard Offshore Wind Farm,RWE,hist_gradient_boosting_balanced,0,0.00019626836520344367,0,0.9398575004914579
+PR0548,JV232,Global Shipping Business Network (GSBN),CMA CGM,hist_gradient_boosting_balanced,0,0.0005145717200188397,0,0.9398575004914579
+PR0159,JV071,IONNA charging network JV,Hyundai,hist_gradient_boosting_balanced,0,3.4115358199202756e-05,0,0.9398575004914579
+PR0425,JV183,Tengizchevroil LLP,ExxonMobil,hist_gradient_boosting_balanced,0,0.0037746152315329532,0,0.9398575004914579
+PR0288,JV124,BASF-YPC Company Limited,Sinopec,hist_gradient_boosting_balanced,0,2.7250138465116988e-05,0,0.9398575004914579
+PR0349,JV147,Cornerstone Telecommunications Infrastructure,Vodafone UK / Vantage Towers,hist_gradient_boosting_balanced,0,0.07958350730480969,0,0.9398575004914579
+PR0967,JV414,Texas Critical Data Centers LLC,New Era Energy & Digital,hist_gradient_boosting_balanced,0,0.009780200802811584,0,0.9398575004914579
+PR0101,JV046,Iberdrola-Masdar East Anglia THREE offshore wind co-investment,Masdar,hist_gradient_boosting_balanced,0,0.001093972688557401,0,0.9398575004914579
+PR0605,JV249,"Beijing Foton Daimler Automotive Co., Ltd. (BFDA)",Foton Motor,hist_gradient_boosting_balanced,0,2.2568463141252672e-05,0,0.9398575004914579
+PR0305,JV132,"AutoAlliance Thailand Co., Ltd. (AAT)",Ford Motor Company,hist_gradient_boosting_balanced,0,0.00011916180246263275,0,0.9398575004914579
+PR0306,JV132,"AutoAlliance Thailand Co., Ltd. (AAT)",Mazda Motor Corporation,hist_gradient_boosting_balanced,0,1.5253887288676878e-05,0,0.9398575004914579
+PR0268,JV116,Samsung Bioepis,Samsung Biologics,hist_gradient_boosting_balanced,0,9.75424642364399e-06,0,0.9398575004914579
+PR0069,JV032,Reliance-Disney India media JV / JioStar,Viacom18,hist_gradient_boosting_balanced,0,2.5053352459083335e-05,0,0.9398575004914579
+PR0535,JV226,NEC Lenovo Japan Group,Lenovo,hist_gradient_boosting_balanced,0,2.1313751197425106e-05,0,0.9398575004914579
+PR0422,JV182,Golden Pass LNG,QatarEnergy,hist_gradient_boosting_balanced,0,0.0019066871549991134,0,0.9398575004914579
+PR0499,JV210,MIRISE Technologies,DENSO,hist_gradient_boosting_balanced,0,8.535455612371176e-05,0,0.9398575004914579
+PR0495,JV208,Amplify Cell Technologies,Daimler Truck,hist_gradient_boosting_balanced,0,2.752530729489855e-05,0,0.9398575004914579
+PR0699,JV286,MHI Vestas Offshore Wind,Vestas Wind Systems,hist_gradient_boosting_balanced,0,1.270100153807157e-05,0,0.9398575004914579
+PR0935,JV398,PLIVE / Prologis Logistics Investment Venture Europe,La Caisse,hist_gradient_boosting_balanced,1,0.9875053247649738,1,0.9398575004914579
+PR0650,JV265,EQUATE Petrochemical Company,Qurain Petrochemical Industries Company,hist_gradient_boosting_balanced,0,0.004258067961643501,0,0.9398575004914579
+PR0519,JV218,OXG Glasfaser / Vodafone-Altice FibreCo,Vodafone,hist_gradient_boosting_balanced,0,0.03374754645698481,0,0.9398575004914579
+PR0862,JV362,Volvo Financial Services-Eicher Motors India finance JV,Eicher Motors,hist_gradient_boosting_balanced,0,0.0050198648752692795,0,0.9398575004914579
+PR1007,JV429,Aduna Global network API JV,T-Mobile,hist_gradient_boosting_balanced,0,0.004463847684956861,0,0.9398575004914579
+PR0938,JV399,Arizore LLC / Bocana-Arizore mining JV,Arizore Ltd.,hist_gradient_boosting_balanced,0,0.007436044052502927,0,0.9398575004914579
+PR0250,JV107,Arcius Energy,bp,hist_gradient_boosting_balanced,0,2.841510207775275e-05,0,0.9398575004914579
+PR0442,JV187,Compañía Minera Antamina S.A. / Antamina mine,BHP,hist_gradient_boosting_balanced,0,1.84745473226684e-05,0,0.9398575004914579
+PR1067,JV457,IsoEnergy-Purepoint Uranium Athabasca JV,IsoEnergy,hist_gradient_boosting_balanced,0,0.026653014348446535,0,0.9398575004914579
+PR0833,JV348,Critical Metals-TQB rare earth processing JV,Tariq Abdel Hadi Abdullah Al-Qahtani & Brothers Company (TQB),hist_gradient_boosting_balanced,0,0.009055277953244635,0,0.9398575004914579
+PR0112,JV051,Ma'aden-Alcoa aluminum JV,Ma'aden,hist_gradient_boosting_balanced,0,1.388951635286584e-05,0,0.9398575004914579
+PR0192,JV083,BYD Toyota EV Technology (BTET),Toyota,hist_gradient_boosting_balanced,0,6.702323161823842e-05,0,0.9398575004914579
+PR0420,JV181,Joyn Bio,Bayer,hist_gradient_boosting_balanced,0,0.001275790836619681,0,0.9398575004914579
+PR0738,JV304,Oyak Renault Otomobil Fabrikaları A.Ş.,Renault Group,hist_gradient_boosting_balanced,0,4.031523265769438e-05,0,0.9398575004914579
+PR0781,JV322,Reliance BP Mobility / Jio-bp,bp,hist_gradient_boosting_balanced,0,0.0013509981247091375,0,0.9398575004914579
+PR0538,JV227,Fuji Xerox,Rank Xerox,hist_gradient_boosting_balanced,0,1.729027096620624e-05,0,0.9398575004914579
+PR0036,JV016,SkyShowtime,ViacomCBS / Paramount,hist_gradient_boosting_balanced,0,0.0003602360217281797,0,0.9398575004914579
+PR0028,JV014,Milence / European heavy-duty charging JV,Daimler Truck,hist_gradient_boosting_balanced,0,0.00013176768203659119,0,0.9398575004914579
+PR0750,JV309,"Hitachi Astemo, Ltd.",Honda,hist_gradient_boosting_balanced,0,0.004338754617662091,0,0.9398575004914579
+PR0623,JV257,Huawei-3Com / H3C,Huawei,hist_gradient_boosting_balanced,0,1.8304930678947275e-05,0,0.9398575004914579
+PR1022,JV435,Lumax Alps Alpine India,Alps Alpine,hist_gradient_boosting_balanced,0,5.764322651830104e-05,0,0.9398575004914579
+PR0877,JV369,KONGSBERG-Thales defence communications JV,Thales,hist_gradient_boosting_balanced,0,0.0034768821908587174,0,0.9398575004914579
+PR0609,JV251,McDonald's China / Fast Food Holdings,CITIC,hist_gradient_boosting_balanced,0,0.00396853747084564,0,0.9398575004914579
+PR0778,JV321,Foxtron Vehicle Technologies,Hon Hai Technology Group / Foxconn,hist_gradient_boosting_balanced,0,0.00013332120078295785,0,0.9398575004914579
+PR0279,JV121,Bugatti Rimac,Rimac Automobili / Rimac Group,hist_gradient_boosting_balanced,0,0.00016438897255863024,0,0.9398575004914579
+PR0905,JV383,AirJoule LLC / GE Vernova-Montana Technologies JV,Montana Technologies,hist_gradient_boosting_balanced,0,0.0005059360135158397,0,0.9398575004914579
+PR0995,JV428,PO-Rein hydrogen storage JV,OPmobility (Plastic Omnium),hist_gradient_boosting_balanced,0,0.0004160708223486474,0,0.9398575004914579
+PR1027,JV437,SB OAI Japan,SoftBank Corp.,hist_gradient_boosting_balanced,0,0.0011072005538341951,0,0.9398575004914579
+PR0682,JV278,S-LCD Corporation,Samsung Electronics,hist_gradient_boosting_balanced,0,0.0005099703539072162,0,0.9398575004914579
+PR0276,JV119,NEOM Green Hydrogen Company,NEOM,hist_gradient_boosting_balanced,0,0.00012786741694059006,0,0.9398575004914579
+PR0853,JV358,KBC Securities-Van Lanschot Kempen equities JV,KBC Securities,hist_gradient_boosting_balanced,0,0.0023426344724258343,0,0.9398575004914579
+PR0513,JV215,nexfibre,Liberty Global,hist_gradient_boosting_balanced,0,0.9311869507072149,0,0.9398575004914579
+PR0225,JV097,GAC Honda,GAC Group,hist_gradient_boosting_balanced,0,0.0002683023872689048,0,0.9398575004914579
+PR0849,JV356,PT Mortar Prakarsa Utama / Saint-Gobain-Indocement mortar JV,PT Cipta Mortar Utama / Saint-Gobain,hist_gradient_boosting_balanced,0,0.006617086066494131,0,0.9398575004914579
+PR0554,JV232,Global Shipping Business Network (GSBN),Port of Qingdao / SPG Qingdao Port,hist_gradient_boosting_balanced,0,4.900292216246048e-05,0,0.9398575004914579
+PR0033,JV015,Japan Advanced Semiconductor Manufacturing (JASM),DENSO,hist_gradient_boosting_balanced,0,0.0007606605446655607,0,0.9398575004914579
+PR0278,JV120,Hyundai Motor Manufacturing Middle East / PIF-Hyundai JV,Hyundai Motor Company,hist_gradient_boosting_balanced,0,0.000730123676107118,0,0.9398575004914579
+PR0501,JV211,BluE Nexus,AISIN,hist_gradient_boosting_balanced,0,0.00025274582334378824,0,0.9398575004914579
+PR1050,JV448,Tianjin Nangang Ethylene Project JV,SINOPEC,hist_gradient_boosting_balanced,0,0.00013521864694288993,0,0.9398575004914579
+PR0969,JV415,Bericap North America / BCNA,Amcor,hist_gradient_boosting_balanced,0,0.000409189224279772,0,0.9398575004914579
+PR0446,JV188,Galore Creek Partnership,Newmont,hist_gradient_boosting_balanced,0,0.012987397195693931,0,0.9398575004914579
+PR0771,JV319,HysetCo,Air Liquide,hist_gradient_boosting_balanced,0,9.669692683195271e-05,0,0.9398575004914579
+PR0664,JV271,EuroJet Turbo GmbH,ITP Aero,hist_gradient_boosting_balanced,0,2.4421847242933497e-05,0,0.9398575004914579
+PR0960,JV410,Ethias-Weerts logistics real estate JV,Weerts Group,hist_gradient_boosting_balanced,0,0.023501432671450863,0,0.9398575004914579
+PR0743,JV306,Punch Powertrain PSA e-transmissions,Punch Powertrain,hist_gradient_boosting_balanced,0,1.8592635426645537e-05,0,0.9398575004914579
+PR0516,JV217,FiberCop,TIM,hist_gradient_boosting_balanced,0,0.9785585468347539,1,0.9398575004914579
+PR0223,JV096,"Beijing Benz Automotive Co., Ltd. (BBAC)",Mercedes-Benz,hist_gradient_boosting_balanced,0,0.0001303561627313569,0,0.9398575004914579
+PR0927,JV394,CRML-FPCU Romania rare earth processing JV,Critical Metals Corp.,hist_gradient_boosting_balanced,0,1.7229556334876503e-05,0,0.9398575004914579
+PR0940,JV400,Looper Textile Co. / H&M-Remondis JV,Remondis,hist_gradient_boosting_balanced,0,0.0002352518246977781,0,0.9398575004914579
+PR0309,JV134,GE Honda Aero Engines LLC,General Electric,hist_gradient_boosting_balanced,0,0.00025337572969013223,0,0.9398575004914579
+PR0551,JV232,Global Shipping Business Network (GSBN),Hapag-Lloyd,hist_gradient_boosting_balanced,0,0.002638796705519811,0,0.9398575004914579
+PR0067,JV031,Digital Realty-Blackstone Hyperscale Data Center JV,Blackstone funds,hist_gradient_boosting_balanced,1,0.9125377969203274,0,0.9398575004914579
+PR0808,JV336,Rheinmetall ICEYE Space Solutions GmbH,Rheinmetall,hist_gradient_boosting_balanced,0,8.338002141252071e-05,0,0.9398575004914579
+PR0873,JV367,Questerre-Nice Capital PX Energy JV,Nice Capital Holdings,hist_gradient_boosting_balanced,0,0.00048343944046450043,0,0.9398575004914579
+PR0186,JV081,Airbus C Series / A220 partnership,Airbus,hist_gradient_boosting_balanced,0,3.643514082096197e-05,0,0.9398575004914579
+PR0728,JV299,"Changan PSA Automobile Co., Ltd. (CAPSA)",PSA Peugeot Citroën,hist_gradient_boosting_balanced,0,2.6657367169301025e-05,0,0.9398575004914579
+PR0571,JV235,Ichthys LNG,JERA / Chubu-related stake,hist_gradient_boosting_balanced,0,2.5765491012541737e-05,0,0.9398575004914579
+PR0819,JV341,IsoEnergy-Purepoint Athabasca Basin uranium JV,Purepoint Uranium,hist_gradient_boosting_balanced,0,0.0006385525272707436,0,0.9398575004914579
+PR0415,JV178,Tata Lockheed Martin Aerostructures Limited (TLMAL),Tata Advanced Systems,hist_gradient_boosting_balanced,0,7.967364950790897e-05,0,0.9398575004914579
+PR0556,JV232,Global Shipping Business Network (GSBN),Shanghai International Port Group (SIPG),hist_gradient_boosting_balanced,0,4.900292216246048e-05,0,0.9398575004914579
+PR0207,JV089,Bluevia,Vauban Infrastructure Partners,hist_gradient_boosting_balanced,1,0.9973147258075246,1,0.9398575004914579
+PR0303,JV131,AutoAlliance International,Ford Motor Company,hist_gradient_boosting_balanced,0,2.589693877738802e-05,0,0.9398575004914579
+PR1015,JV432,IHI-Orion Corinthia Hotel Lisbon JV,Orion European Real Estate Fund VI,hist_gradient_boosting_balanced,1,0.005334046496072291,0,0.9398575004914579
+PR0324,JV138,Mozambique LNG / Area 1 Project,ENH Rovuma Área Um,hist_gradient_boosting_balanced,0,7.88386487727868e-05,0,0.9398575004914579
+PR0005,JV003,Ultium Cells LLC,General Motors,hist_gradient_boosting_balanced,0,0.0004359055682009723,0,0.9398575004914579

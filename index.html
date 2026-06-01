@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Joint Venture Database | Passive Partner Signals</title>
+    <meta
+      name="description"
+      content="A concise static report on passive financial partners in a joint venture database, with model results and downloadable charts."
+    >
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav-shell" aria-label="Report sections">
+        <a class="brand" href="#top" aria-label="Joint Venture Database home">
+          <span class="brand-mark" aria-hidden="true">JV</span>
+          <span>Joint Venture Database</span>
+        </a>
+        <div class="nav-links">
+          <a href="#database">Database</a>
+          <a href="#models">Models</a>
+          <a href="#features">Features</a>
+          <a href="#charts">Charts</a>
+        </div>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero section-band">
+        <div class="content hero-grid">
+          <div class="hero-copy">
+            <p class="eyebrow">Joint venture database analysis</p>
+            <h1>Joint venture database analysis.</h1>
+            <p class="lede">
+              This report summarizes 460 JV events and 1,074 partner-role rows,
+              then tests whether passive or financial participation can be predicted
+              from pre-label deal features.
+            </p>
+            <div class="hero-actions">
+              <a class="button primary" href="#charts">View charts</a>
+              <a class="button ghost" href="results/model_summary.csv" download>Download model summary</a>
+            </div>
+          </div>
+          <div class="summary-panel" aria-label="Key summary metrics">
+            <div class="metric">
+              <span class="metric-value">460</span>
+              <span class="metric-label">JV events</span>
+            </div>
+            <div class="metric">
+              <span class="metric-value">1,074</span>
+              <span class="metric-label">partner-role rows</span>
+            </div>
+            <div class="metric">
+              <span class="metric-value">46</span>
+              <span class="metric-label">passive/financial events</span>
+            </div>
+            <div class="metric">
+              <span class="metric-value">85.4%</span>
+              <span class="metric-label">cross-border events</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="database" class="section-band">
+        <div class="content two-column">
+          <div>
+            <p class="eyebrow">What the database shows</p>
+            <h2>JV activity is concentrated in strategic sectors.</h2>
+            <p>
+              Automotive is the largest sector with 104 events, followed by Energy
+              with 65 and Aerospace / Defense with 46. Cross-border structures are
+              the norm: 393 of 460 events are cross-border.
+            </p>
+          </div>
+          <div class="insight-list">
+            <article class="insight">
+              <strong>Passive participation is scarce.</strong>
+              <span>Only 46 events and 48 partner-role rows are flagged as passive/financial.</span>
+            </article>
+            <article class="insight">
+              <strong>Passive events cluster by sector.</strong>
+              <span>Digital infrastructure accounts for 20 of 46 passive/financial events.</span>
+            </article>
+            <article class="insight">
+              <strong>Most partners are operating participants.</strong>
+              <span>Active/Operating and Shared/Active roles represent 935 of 1,074 partner-role rows.</span>
+            </article>
+            <article class="insight">
+              <strong>Ownership is often balanced.</strong>
+              <span>Equal or 50:50 structures appear in 215 of 460 events.</span>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="models" class="section-band muted">
+        <div class="content">
+          <div class="section-heading">
+            <p class="eyebrow">Machine learning results</p>
+            <h2>Machine learning results.</h2>
+          </div>
+          <div class="model-grid">
+            <article class="model-card">
+              <div>
+                <p class="model-kicker">Event-level model</p>
+                <h3>Predict whether a JV event has a passive/financial partner.</h3>
+                <p>
+                  Best model: balanced logistic regression. It reached 0.716
+                  holdout average precision and 0.640 F1 on the stratified split.
+                </p>
+              </div>
+              <dl class="stat-list">
+                <div><dt>Training rows</dt><dd>438</dd></div>
+                <div><dt>Positive rate</dt><dd>10.5%</dd></div>
+                <div><dt>Holdout recall</dt><dd>66.7%</dd></div>
+              </dl>
+            </article>
+            <article class="model-card">
+              <div>
+                <p class="model-kicker">Partner-level model</p>
+                <h3>Predict whether a partner is passive/financial.</h3>
+                <p>
+                  Best model: balanced random forest. It reached 0.440 holdout
+                  average precision and 0.385 F1, against a 4.6% positive rate.
+                </p>
+              </div>
+              <dl class="stat-list">
+                <div><dt>Training rows</dt><dd>1,042</dd></div>
+                <div><dt>Positive rate</dt><dd>4.6%</dd></div>
+                <div><dt>Holdout recall</dt><dd>41.7%</dd></div>
+              </dl>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="features" class="section-band">
+        <div class="content feature-grid">
+          <div>
+            <p class="eyebrow">Feature importance</p>
+            <h2>Sector is the strongest predictor in both models.</h2>
+            <p>
+              Importance is measured as the drop in holdout average precision after
+              randomly permuting a feature. Larger drops mean the model relied more
+              on that feature.
+            </p>
+            <p>
+              The result is clear: passive partner prediction is not driven mainly
+              by cross-border status or deal value. It is driven by sector, then by
+              ownership, geography, and time features.
+            </p>
+          </div>
+          <div class="importance-tables">
+            <article>
+              <h3>Event-level top features</h3>
+              <table>
+                <thead>
+                  <tr><th>Feature</th><th>AP drop</th></tr>
+                </thead>
+                <tbody>
+                  <tr><td>sector</td><td>0.411</td></tr>
+                  <tr><td>announcement_year</td><td>0.102</td></tr>
+                  <tr><td>date_precision</td><td>0.066</td></tr>
+                  <tr><td>geography</td><td>0.040</td></tr>
+                  <tr><td>ownership_equal_50_50_flag</td><td>0.028</td></tr>
+                </tbody>
+              </table>
+            </article>
+            <article>
+              <h3>Partner-level top features</h3>
+              <table>
+                <thead>
+                  <tr><th>Feature</th><th>AP drop</th></tr>
+                </thead>
+                <tbody>
+                  <tr><td>sector</td><td>0.197</td></tr>
+                  <tr><td>ownership_pct_numeric</td><td>0.051</td></tr>
+                  <tr><td>partner_country_or_region</td><td>0.047</td></tr>
+                  <tr><td>announcement_year</td><td>0.046</td></tr>
+                  <tr><td>deal_value_reported_flag</td><td>0.033</td></tr>
+                </tbody>
+              </table>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="charts" class="section-band muted">
+        <div class="content">
+          <div class="section-heading">
+            <p class="eyebrow">Chart library</p>
+            <h2>All figures</h2>
+          </div>
+          <div id="chart-groups" class="chart-groups" aria-live="polite"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="content footer-inner">
+        <div class="footer-copy">
+          <p>Static GitHub Pages report.</p>
+          <p class="ai-disclosure">AI disclosure: ChatGPT and Codex were used to support analysis, coding, and website preparation.</p>
+        </div>
+        <a href="#top">Back to top</a>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
